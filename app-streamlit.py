@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 import contextily as cx
 from shapely.geometry import Point
 
-st.set_page_config(layout="wide")
+st.set_page_config(layout="wide") # make app wide
 
 # read sb's dataset
 sb_water_df = pd.read_csv('cleaned_data_sb/geo_func_precip_util_joined.csv')
@@ -36,6 +36,9 @@ water_pumps.replace({'Dar es Salaam': 'Dar-es-salaam'}, inplace=True)
 
 # sanitation data for line graphs
 sanitation_data = pd.read_csv('st_data/sanitation_by_region.csv')
+
+# drinking water quality data for line graphs
+drinking_water_quality = pd.read_csv('st_data/drinking_water_quality_by_region.csv')
 
 indicators_with_underscores = []
 
@@ -65,16 +68,12 @@ for i in range(len(indicators_with_underscores)):
 page = st.sidebar.selectbox('Select page',
   ['Country','Region'])
 
-st.title('Tanzania Water Pumps Analysis')
+st.title('🇹🇿 Tanzania Water Pumps App 🇹🇿')
+
+st.markdown("""---""")
 
 if (page=='Country'):
-    # row1_1, row1_2 = st.columns((5, 4))
-
-    # with row1_1:
-        # indicator_button = st.selexctbox('Choose map', ('map 1', 'map 2'))
     indicator_button = st.selectbox('Choose indicator', tuple(indicators.keys()))
-    # if 'functional' in indicator_button.lower():
-        # st.text(sb_water_df.columns)
     
     components.v1.html(open(current_dir+'/maps_kalebts/'+indicators[indicator_button]).read(), height=600)
 
@@ -85,10 +84,9 @@ if (page=='Country'):
 
     if 'functional' in indicator_button.lower():
         st.vega_lite_chart(
-            # st_functional_pumps,
             st_functional_pumps,
             {
-                "title": "Percentages of Water Pump Statuses by Region",
+                "title": "Percentages of Water Pump Status by Region",
                 "width": {"step": 85},
                 "height": 500,
                 # 'orient': 'horizontal',
@@ -106,38 +104,12 @@ if (page=='Country'):
                         "field": "Status",
                         "type": "ordinal",
                         "scale": {"range": ["#1EB53A", "#00A3DD", "#FCD116"]},
-                        # 'legend': None,
                         },
                     "opacity": {"value": 0.7},
                 }
             }
         )
         
-
-
-        # st.bar_chart(
-        #     sb_water_df[['Region_Nam', 'functional_percentage','non_functional_percentage', 
-        #         'functional_need_repair_percentage']].set_index('Region_Nam'),
-        #     height=500
-        # )
-
-
-        # plost.bar_chart(
-        #     pd.DataFrame(sb_water_df[['functional_percentage','non_functional_percentage', 
-        #         'functional_need_repair_percentage']].agg('mean')).T,
-        #     bar = ['functional_percentage', 'non_functional_percentage',
-        #     'functional_need_repair_percentage'],
-        #     value='0',
-        #     width=200,
-        #     height=200
-        # )
-        # st.text(sb_water_df.columns)
-        # st.text(current_dir)
-
-    # with row1_2:
-        # st.text(indicator_button)
-
-# st.empty()
 st.text(' ')
 st.text(' ')
 st.text(' ')
@@ -146,59 +118,89 @@ st.text(' ')
 if (page=='Region'):
     row2_1, row2_2 = st.columns((5, 5))
 
-    # sb_water_df['Region_Nam']
-
     regions_choices = tuple(sb_water_df['Region_Nam'])
-    # region_indicator_choices = sb_water_df([])
 
     with row2_1:
         region_button = st.selectbox('Choose region', tuple(regions_choices))
-        region_indicator_button = st.selectbox('Choose region indicator', tuple(['sanitation', 'water']))
+        region_indicator_button = st.selectbox('Choose region indicator', tuple(['None', 'Sanitation', 'Drinking Water Quality']))
         
         region_indicator_button=region_indicator_button
 
-        if (region_indicator_button=='sanitation') and (region_button==region_button):
+        st.text(" ")
+        st.text(" ")
+
+        if region_indicator_button=='None':
+            st.empty()
+
+        if region_indicator_button=='Sanitation':
             st.vega_lite_chart(
                 sanitation_data[sanitation_data['Region'] == region_button],
                 {
-                    "width": 900,
+                    # "width": 900,
+                    "transform":[
+                        {"calculate": "2*datum.Type", "as": "b2"},
+                    ],
                     "height": 500,
-                    "mark": "line",
+                    "background": "#5e5e5e",
+                    "mark": {
+                        "type": "line",
+                        "point": "true",
+                        "borders": {
+                            "opacity": 0.5,
+                            "strokeDash": [6, 4]
+                        }
+                    },
                     "encoding": {
-                        "x": {"field": "Year", "type": "temporal"},
+                        "x": {"field": "Year"},
                         "y": {"field": "Percentage", "type": "quantitative"},
                         "strokeDash": {"field": "symbol", "type": "nominal"},
+                        "axis": {
+                            "tickCount": 5,
+                        },
                         "tooltip": {"field": "Percentage", "type": "quantitative"},
                         "color": {
                             "field": "Type",
                             "type": "ordinal",
                             "scale": {"range": ["blue", "orange", "green", "red"]},
-                            # 'legend': None,
                         },
                     }
                 }
-            )
+            , use_container_width=True)
 
-
-
-            
-        # sb_water_df[region_indicator_button][sb_water_df['Region_Nam'] == region_button]
-        # if 'functional' in indicator_button.lower():
-            # st.text(sb_water_df.columns)
-        # fig, ax = plt.subplots()
-        # ax.bar(
-        #     data=sb_water_df[['functional_percentage','non_functional_percentage', 
-        #         'functional_need_repair_percentage']],
-        #     x='Region_Nam',
-        #     height='functional_percentage'
-        # )
-        # st.pyplot(fig)
+        if region_indicator_button=='Drinking Water Quality':
+            st.vega_lite_chart(
+                drinking_water_quality[drinking_water_quality['Region'] == region_button],
+                {
+                    "height": 500,
+                    "background": "#5e5e5e",
+                    "mark": {
+                        "type": "line",
+                        "point": "true",
+                        "borders": {
+                            "opacity": 0.5,
+                            "strokeDash": [6, 4]
+                        }
+                    },
+                    "encoding": {
+                        "x": {"field": "Year"},
+                        "y": {"field": "Percentage", "type": "quantitative"},
+                        "strokeDash": {"field": "symbol", "type": "nominal"},
+                        "axis": {
+                            "tickCount": 5,
+                        },
+                        "tooltip": {"field": "Percentage", "type": "quantitative"},
+                        "color": {
+                            "field": "Type",
+                            "type": "ordinal",
+                            "scale": {"range": ["green", "blue", "orange", "red"]},
+                            "sort": ["basic", "limited", "unimproved", "surface"],
+                            # 'legend': {"values": ["Basic", "Limited", "Open Defecation", "Unimproved"]}
+                        },
+                    }
+                }
+            , use_container_width=True)
 
     with row2_2:
-        # st.text('yes')
-        
-        # st.text(water_pumps['region'].value_counts())
-
         region_plot = mixed_tz.loc[[region_button]].plot(
             figsize=(12,12), color='grey', alpha=0.075, legend=True,  edgecolor='black', linewidth=3, legend_kwds={'shrink': 0.3});
 
@@ -213,10 +215,5 @@ if (page=='Region'):
         gpd.GeoDataFrame(water_pumps[['source', 'status_group', 'geometry', 'region']][(water_pumps['region']==region_button) 
             & (water_pumps['status_group'] == 'non functional')]).plot(ax=region_plot, marker='o', color='yellow', markersize=1);    
         
-        # plt.legend()
 
         st.pyplot(region_plot.figure, clear_figure=True)
-
-
-
-        # st.text(tz_regions_geo.crs == water_pumps.crs)
