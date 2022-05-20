@@ -1,1 +1,0 @@
-https://geoserver.cul.columbia.edu/geoserver/sde/ows?outputformat=SHAPE-ZIP&request=GetFeature&service=wfs&srsName=EPSG%3A4326&typeName=sde%3Acolumbia.tanzaniaadmn2&version=2.0.0

@@ -1,0 +1,748 @@
+,Indicator,Unit,Subgroup,Area,Area ID,Time Period,Source,Data Value,Footnotes
+3016,Human development index,Percent,Female,Arusha,TZA001002,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.677,
+3018,Human development index,Percent,Female,Dodoma,TZA001001,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.413,
+3019,Human development index,Percent,Female,Geita,TZA001025,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.493,
+3020,Human development index,Percent,Female,Iringa,TZA001011,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.676,
+3021,Human development index,Percent,Female,Kagera,TZA001018,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.44,
+3022,Human development index,Percent,Female,Katavi,TZA001023,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.51,
+3023,Human development index,Percent,Female,Kigoma,TZA001016,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.301,
+3024,Human development index,Percent,Female,Kilimanjaro,TZA001003,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.678,
+3025,Human development index,Percent,Female,Lindi,TZA001008,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.591,
+3027,Human development index,Percent,Female,Manyara,TZA001021,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.546,
+3028,Human development index,Percent,Female,Mara,TZA001020,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.571,
+3029,Human development index,Percent,Female,Mbeya,TZA001012,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.626,
+3030,Human development index,Percent,Female,Morogoro,TZA001005,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.577,
+3031,Human development index,Percent,Female,Mtwara,TZA001009,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.582,
+3032,Human development index,Percent,Female,Pwani,TZA001006,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.482,
+3033,Human development index,Percent,Female,Rukwa,TZA001015,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.51,
+3034,Human development index,Percent,Female,Ruvuma,TZA001010,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.626,
+3035,Human development index,Percent,Female,Shinyanga,TZA001017,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.485,
+3036,Human development index,Percent,Female,Simiyu,TZA001024,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.489,
+3037,Human development index,Percent,Female,Singida,TZA001013,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.373,
+3038,Human development index,Percent,Female,Tabora,TZA001014,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.416,
+3039,Human development index,Percent,Female,Tanga,TZA001004,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.605,
+3040,Human development index,Percent,Male,Arusha,TZA001002,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.761,
+3042,Human development index,Percent,Male,Dodoma,TZA001001,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.536,
+3043,Human development index,Percent,Male,Geita,TZA001025,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.601,
+3044,Human development index,Percent,Male,Iringa,TZA001011,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.707,
+3045,Human development index,Percent,Male,Kagera,TZA001018,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.536,
+3046,Human development index,Percent,Male,Katavi,TZA001023,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.617,
+3047,Human development index,Percent,Male,Kigoma,TZA001016,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.501,
+3048,Human development index,Percent,Male,Kilimanjaro,TZA001003,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.755,
+3049,Human development index,Percent,Male,Lindi,TZA001008,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.661,
+3051,Human development index,Percent,Male,Manyara,TZA001021,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.688,
+3052,Human development index,Percent,Male,Mara,TZA001020,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.664,
+3053,Human development index,Percent,Male,Mbeya,TZA001012,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.707,
+3054,Human development index,Percent,Male,Morogoro,TZA001005,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.655,
+3055,Human development index,Percent,Male,Mtwara,TZA001009,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.652,
+3056,Human development index,Percent,Male,Pwani,TZA001006,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.606,
+3057,Human development index,Percent,Male,Rukwa,TZA001015,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.617,
+3058,Human development index,Percent,Male,Ruvuma,TZA001010,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.707,
+3059,Human development index,Percent,Male,Shinyanga,TZA001017,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.589,
+3060,Human development index,Percent,Male,Simiyu,TZA001024,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.595,
+3061,Human development index,Percent,Male,Singida,TZA001013,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.539,
+3062,Human development index,Percent,Male,Tabora,TZA001014,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.583,
+3063,Human development index,Percent,Male,Tanga,TZA001004,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.708,
+3064,Human development index,Percent,Total,Arusha,TZA001002,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.721,
+3066,Human development index,Percent,Total,Dodoma,TZA001001,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.487,
+3067,Human development index,Percent,Total,Geita,TZA001025,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.555,
+3068,Human development index,Percent,Total,Iringa,TZA001011,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.693,
+3069,Human development index,Percent,Total,Kagera,TZA001018,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.494,
+3070,Human development index,Percent,Total,Katavi,TZA001023,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.57,
+3071,Human development index,Percent,Total,Kigoma,TZA001016,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.426,
+3072,Human development index,Percent,Total,Kilimanjaro,TZA001003,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.719,
+3073,Human development index,Percent,Total,Lindi,TZA001008,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.628,
+3075,Human development index,Percent,Total,Manyara,TZA001021,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.633,
+3076,Human development index,Percent,Total,Mara,TZA001020,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.62,
+3077,Human development index,Percent,Total,Mbeya,TZA001012,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.668,
+3078,Human development index,Percent,Total,Morogoro,TZA001005,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.62,
+3079,Human development index,Percent,Total,Mtwara,TZA001009,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.618,
+3080,Human development index,Percent,Total,Pwani,TZA001006,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.549,
+3081,Human development index,Percent,Total,Rukwa,TZA001015,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.57,
+3082,Human development index,Percent,Total,Ruvuma,TZA001010,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.674,
+3083,Human development index,Percent,Total,Shinyanga,TZA001017,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.545,
+3084,Human development index,Percent,Total,Simiyu,TZA001024,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.55,
+3085,Human development index,Percent,Total,Singida,TZA001013,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.475,
+3086,Human development index,Percent,Total,Tabora,TZA001014,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.519,
+3087,Human development index,Percent,Total,Tanga,TZA001004,2012,NBS/MoFP_Tanzania Human Development Report_2014,0.661,
+8609,Health insurance coverage age 15-49,Percent,Female,Dodoma,TZA001001,2015-2016,NBS_ TDHS (2015-2016)_2016,4.9,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8610,Health insurance coverage age 15-49,Percent,Female,Arusha,TZA001002,2015-2016,NBS_ TDHS (2015-2016)_2016,0.6,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8611,Health insurance coverage age 15-49,Percent,Female,Kilimanjaro,TZA001003,2015-2016,NBS_ TDHS (2015-2016)_2016,3.7,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8612,Health insurance coverage age 15-49,Percent,Female,Tanga,TZA001004,2015-2016,NBS_ TDHS (2015-2016)_2016,1.7,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8613,Health insurance coverage age 15-49,Percent,Female,Morogoro,TZA001005,2015-2016,NBS_ TDHS (2015-2016)_2016,1.7,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8614,Health insurance coverage age 15-49,Percent,Female,Pwani,TZA001006,2015-2016,NBS_ TDHS (2015-2016)_2016,3.2,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8616,Health insurance coverage age 15-49,Percent,Female,Lindi,TZA001008,2015-2016,NBS_ TDHS (2015-2016)_2016,3.2,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8617,Health insurance coverage age 15-49,Percent,Female,Mtwara,TZA001009,2015-2016,NBS_ TDHS (2015-2016)_2016,1.4,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8618,Health insurance coverage age 15-49,Percent,Female,Ruvuma,TZA001010,2015-2016,NBS_ TDHS (2015-2016)_2016,0.7,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8619,Health insurance coverage age 15-49,Percent,Female,Iringa,TZA001011,2015-2016,NBS_ TDHS (2015-2016)_2016,0.7,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8620,Health insurance coverage age 15-49,Percent,Female,Mbeya,TZA001012,2015-2016,NBS_ TDHS (2015-2016)_2016,0.0,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8621,Health insurance coverage age 15-49,Percent,Female,Singida,TZA001013,2015-2016,NBS_ TDHS (2015-2016)_2016,2.9,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8622,Health insurance coverage age 15-49,Percent,Female,Tabora,TZA001014,2015-2016,NBS_ TDHS (2015-2016)_2016,2.9,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8623,Health insurance coverage age 15-49,Percent,Female,Rukwa,TZA001015,2015-2016,NBS_ TDHS (2015-2016)_2016,1.1,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8624,Health insurance coverage age 15-49,Percent,Female,Kigoma,TZA001016,2015-2016,NBS_ TDHS (2015-2016)_2016,1.7,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8625,Health insurance coverage age 15-49,Percent,Female,Shinyanga,TZA001017,2015-2016,NBS_ TDHS (2015-2016)_2016,3.6,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8626,Health insurance coverage age 15-49,Percent,Female,Kagera,TZA001018,2015-2016,NBS_ TDHS (2015-2016)_2016,0.7,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8627,Health insurance coverage age 15-49,Percent,Female,Mwanza,TZA001019,2015-2016,NBS_ TDHS (2015-2016)_2016,1.9,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8628,Health insurance coverage age 15-49,Percent,Female,Mara,TZA001020,2015-2016,NBS_ TDHS (2015-2016)_2016,0.2,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8629,Health insurance coverage age 15-49,Percent,Female,Manyara,TZA001021,2015-2016,NBS_ TDHS (2015-2016)_2016,0.3,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8630,Health insurance coverage age 15-49,Percent,Female,Njombe,TZA001022,2015-2016,NBS_ TDHS (2015-2016)_2016,0.2,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8631,Health insurance coverage age 15-49,Percent,Female,Katavi,TZA001023,2015-2016,NBS_ TDHS (2015-2016)_2016,0.7,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8632,Health insurance coverage age 15-49,Percent,Female,Simiyu,TZA001024,2015-2016,NBS_ TDHS (2015-2016)_2016,2.1,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8633,Health insurance coverage age 15-49,Percent,Female,Geita,TZA001025,2015-2016,NBS_ TDHS (2015-2016)_2016,1.8,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8634,Health insurance coverage age 15-49,Percent,Male,Dodoma,TZA001001,2015-2016,NBS_ TDHS (2015-2016)_2016,0.0,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8635,Health insurance coverage age 15-49,Percent,Male,Arusha,TZA001002,2015-2016,NBS_ TDHS (2015-2016)_2016,3.2,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8636,Health insurance coverage age 15-49,Percent,Male,Kilimanjaro,TZA001003,2015-2016,NBS_ TDHS (2015-2016)_2016,4.9,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8637,Health insurance coverage age 15-49,Percent,Male,Tanga,TZA001004,2015-2016,NBS_ TDHS (2015-2016)_2016,1.6,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8638,Health insurance coverage age 15-49,Percent,Male,Morogoro,TZA001005,2015-2016,NBS_ TDHS (2015-2016)_2016,0.0,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8639,Health insurance coverage age 15-49,Percent,Male,Pwani,TZA001006,2015-2016,NBS_ TDHS (2015-2016)_2016,1.1,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8641,Health insurance coverage age 15-49,Percent,Male,Lindi,TZA001008,2015-2016,NBS_ TDHS (2015-2016)_2016,2.1,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8642,Health insurance coverage age 15-49,Percent,Male,Mtwara,TZA001009,2015-2016,NBS_ TDHS (2015-2016)_2016,4.4,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8643,Health insurance coverage age 15-49,Percent,Male,Ruvuma,TZA001010,2015-2016,NBS_ TDHS (2015-2016)_2016,0.0,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8644,Health insurance coverage age 15-49,Percent,Male,Iringa,TZA001011,2015-2016,NBS_ TDHS (2015-2016)_2016,0.0,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8645,Health insurance coverage age 15-49,Percent,Male,Mbeya,TZA001012,2015-2016,NBS_ TDHS (2015-2016)_2016,0.7,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8646,Health insurance coverage age 15-49,Percent,Male,Singida,TZA001013,2015-2016,NBS_ TDHS (2015-2016)_2016,2.5,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8647,Health insurance coverage age 15-49,Percent,Male,Tabora,TZA001014,2015-2016,NBS_ TDHS (2015-2016)_2016,0.0,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8648,Health insurance coverage age 15-49,Percent,Male,Rukwa,TZA001015,2015-2016,NBS_ TDHS (2015-2016)_2016,0.7,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8649,Health insurance coverage age 15-49,Percent,Male,Kigoma,TZA001016,2015-2016,NBS_ TDHS (2015-2016)_2016,2.5,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8650,Health insurance coverage age 15-49,Percent,Male,Shinyanga,TZA001017,2015-2016,NBS_ TDHS (2015-2016)_2016,0.0,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8651,Health insurance coverage age 15-49,Percent,Male,Kagera,TZA001018,2015-2016,NBS_ TDHS (2015-2016)_2016,5.8,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8652,Health insurance coverage age 15-49,Percent,Male,Mwanza,TZA001019,2015-2016,NBS_ TDHS (2015-2016)_2016,0.0,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8653,Health insurance coverage age 15-49,Percent,Male,Mara,TZA001020,2015-2016,NBS_ TDHS (2015-2016)_2016,0.0,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8654,Health insurance coverage age 15-49,Percent,Male,Manyara,TZA001021,2015-2016,NBS_ TDHS (2015-2016)_2016,0.0,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8655,Health insurance coverage age 15-49,Percent,Male,Njombe,TZA001022,2015-2016,NBS_ TDHS (2015-2016)_2016,0.0,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8656,Health insurance coverage age 15-49,Percent,Male,Katavi,TZA001023,2015-2016,NBS_ TDHS (2015-2016)_2016,1.4,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8657,Health insurance coverage age 15-49,Percent,Male,Simiyu,TZA001024,2015-2016,NBS_ TDHS (2015-2016)_2016,3.2,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+8658,Health insurance coverage age 15-49,Percent,Male,Geita,TZA001025,2015-2016,NBS_ TDHS (2015-2016)_2016,2.8,"TZA_ Demographic & Health Survey, 2015-2016, National Bureau of Statistics, Tanzania, December 2016"
+49493,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Lindi,TZA001008,2011,MoHSW_HRIS Annual Report_Yearly,0.77,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49494,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Manyara,TZA001021,2011,MoHSW_HRIS Annual Report_Yearly,0.38,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49495,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Mara,TZA001020,2011,MoHSW_HRIS Annual Report_Yearly,0.32,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49496,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Mbeya,TZA001012,2011,MoHSW_HRIS Annual Report_Yearly,1.01,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49497,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Morogoro,TZA001005,2011,MoHSW_HRIS Annual Report_Yearly,0.75,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49498,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Mtwara,TZA001009,2011,MoHSW_HRIS Annual Report_Yearly,0.32,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49499,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Mwanza,TZA001019,2011,MoHSW_HRIS Annual Report_Yearly,0.44,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49500,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Pwani,TZA001006,2011,MoHSW_HRIS Annual Report_Yearly,0.9,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49501,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Rukwa,TZA001015,2011,MoHSW_HRIS Annual Report_Yearly,0.12,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49502,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Arusha,TZA001002,2011,MoHSW_HRIS Annual Report_Yearly,0.5,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49504,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Dodoma,TZA001001,2011,MoHSW_HRIS Annual Report_Yearly,0.79,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49505,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Iringa,TZA001011,2011,MoHSW_HRIS Annual Report_Yearly,0.67,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49506,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Kagera,TZA001018,2011,MoHSW_HRIS Annual Report_Yearly,0.33,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49507,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Kigoma,TZA001016,2011,MoHSW_HRIS Annual Report_Yearly,0.34,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49508,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Kilimanjaro,TZA001003,2011,MoHSW_HRIS Annual Report_Yearly,1.44,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49509,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Ruvuma,TZA001010,2011,MoHSW_HRIS Annual Report_Yearly,0.58,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49510,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Shinyanga,TZA001017,2011,MoHSW_HRIS Annual Report_Yearly,0.22,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49511,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Singida,TZA001013,2011,MoHSW_HRIS Annual Report_Yearly,0.45,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49512,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Tabora,TZA001014,2011,MoHSW_HRIS Annual Report_Yearly,0.23,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49513,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Tanga,TZA001004,2011,MoHSW_HRIS Annual Report_Yearly,0.75,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49515,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Arusha,TZA001002,2012,MoHSW_HRIS Annual Report_Yearly,2.0,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49517,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Dodoma,TZA001001,2012,MoHSW_HRIS Annual Report_Yearly,1.9,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49518,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Iringa,TZA001011,2012,MoHSW_HRIS Annual Report_Yearly,2.4,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49519,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Kagera,TZA001018,2012,MoHSW_HRIS Annual Report_Yearly,1.1,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49520,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Kigoma,TZA001016,2012,MoHSW_HRIS Annual Report_Yearly,0.9,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49521,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Kilimanjaro,TZA001003,2012,MoHSW_HRIS Annual Report_Yearly,3.3,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49522,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Lindi,TZA001008,2012,MoHSW_HRIS Annual Report_Yearly,2.6,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49523,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Manyara,TZA001021,2012,MoHSW_HRIS Annual Report_Yearly,1.3,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49524,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Mara,TZA001020,2012,MoHSW_HRIS Annual Report_Yearly,1.4,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49525,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Mbeya,TZA001012,2012,MoHSW_HRIS Annual Report_Yearly,1.9,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49526,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Morogoro,TZA001005,2012,MoHSW_HRIS Annual Report_Yearly,2.7,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49527,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Mtwara,TZA001009,2012,MoHSW_HRIS Annual Report_Yearly,1.6,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49528,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Mwanza,TZA001019,2012,MoHSW_HRIS Annual Report_Yearly,1.2,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49529,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Pwani,TZA001006,2012,MoHSW_HRIS Annual Report_Yearly,4.0,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49530,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Rukwa,TZA001015,2012,MoHSW_HRIS Annual Report_Yearly,1.2,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49531,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Ruvuma,TZA001010,2012,MoHSW_HRIS Annual Report_Yearly,2.1,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49532,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Shinyanga,TZA001017,2012,MoHSW_HRIS Annual Report_Yearly,1.0,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49533,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Singida,TZA001013,2012,MoHSW_HRIS Annual Report_Yearly,1.4,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49534,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Tabora,TZA001014,2012,MoHSW_HRIS Annual Report_Yearly,0.8,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49535,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Tanga,TZA001004,2012,MoHSW_HRIS Annual Report_Yearly,2.8,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49536,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Arusha,TZA001002,2013,MoHSW_HRIS Annual Report_Yearly,0.94,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49538,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Dodoma,TZA001001,2013,MoHSW_HRIS Annual Report_Yearly,0.81,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49539,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Geita,TZA001025,2013,MoHSW_HRIS Annual Report_Yearly,0.29,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49540,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Iringa,TZA001011,2013,MoHSW_HRIS Annual Report_Yearly,1.12,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49541,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Kagera,TZA001018,2013,MoHSW_HRIS Annual Report_Yearly,0.38,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49542,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Katavi,TZA001023,2013,MoHSW_HRIS Annual Report_Yearly,0.42,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49543,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Kigoma,TZA001016,2013,MoHSW_HRIS Annual Report_Yearly,0.34,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49544,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Kilimanjaro,TZA001003,2013,MoHSW_HRIS Annual Report_Yearly,1.63,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49545,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Lindi,TZA001008,2013,MoHSW_HRIS Annual Report_Yearly,0.97,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49546,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Manyara,TZA001021,2013,MoHSW_HRIS Annual Report_Yearly,0.6,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49547,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Mara,TZA001020,2013,MoHSW_HRIS Annual Report_Yearly,0.48,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49548,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Mbeya,TZA001012,2013,MoHSW_HRIS Annual Report_Yearly,1.26,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49549,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Morogoro,TZA001005,2013,MoHSW_HRIS Annual Report_Yearly,0.97,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49550,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Mtwara,TZA001009,2013,MoHSW_HRIS Annual Report_Yearly,0.76,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49551,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Mwanza,TZA001019,2013,MoHSW_HRIS Annual Report_Yearly,0.72,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49552,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Njombe,TZA001022,2013,MoHSW_HRIS Annual Report_Yearly,0.79,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49553,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Pwani,TZA001006,2013,MoHSW_HRIS Annual Report_Yearly,1.3,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49554,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Rukwa,TZA001015,2013,MoHSW_HRIS Annual Report_Yearly,0.49,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49555,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Ruvuma,TZA001010,2013,MoHSW_HRIS Annual Report_Yearly,0.7,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49556,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Shinyanga,TZA001017,2013,MoHSW_HRIS Annual Report_Yearly,0.35,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49557,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Simiyu,TZA001024,2013,MoHSW_HRIS Annual Report_Yearly,0.49,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49558,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Singida,TZA001013,2013,MoHSW_HRIS Annual Report_Yearly,0.43,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49559,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Tabora,TZA001014,2013,MoHSW_HRIS Annual Report_Yearly,0.25,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49560,"Health worker density per 10,000 population- (Clinicians=MO,AMO and CO)",Ratio,Total,Tanga,TZA001004,2013,MoHSW_HRIS Annual Report_Yearly,0.82,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49562,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Kagera,TZA001018,2011,MoHSW_HRIS Annual Report_Yearly,1.8,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49563,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Kigoma,TZA001016,2011,MoHSW_HRIS Annual Report_Yearly,1.7,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49564,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Kilimanjaro,TZA001003,2011,MoHSW_HRIS Annual Report_Yearly,6.1,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49565,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Lindi,TZA001008,2011,MoHSW_HRIS Annual Report_Yearly,3.2,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49566,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Manyara,TZA001021,2011,MoHSW_HRIS Annual Report_Yearly,0.1,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49567,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Mara,TZA001020,2011,MoHSW_HRIS Annual Report_Yearly,2.8,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49568,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Mbeya,TZA001012,2011,MoHSW_HRIS Annual Report_Yearly,3.0,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49569,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Morogoro,TZA001005,2011,MoHSW_HRIS Annual Report_Yearly,2.9,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49570,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Mtwara,TZA001009,2011,MoHSW_HRIS Annual Report_Yearly,2.2,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49571,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Mwanza,TZA001019,2011,MoHSW_HRIS Annual Report_Yearly,2.3,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49572,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Pwani,TZA001006,2011,MoHSW_HRIS Annual Report_Yearly,3.2,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49573,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Rukwa,TZA001015,2011,MoHSW_HRIS Annual Report_Yearly,1.6,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49574,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Ruvuma,TZA001010,2011,MoHSW_HRIS Annual Report_Yearly,3.5,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49575,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Shinyanga,TZA001017,2011,MoHSW_HRIS Annual Report_Yearly,1.8,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49576,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Singida,TZA001013,2011,MoHSW_HRIS Annual Report_Yearly,2.1,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49577,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Tabora,TZA001014,2011,MoHSW_HRIS Annual Report_Yearly,1.1,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49578,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Tanga,TZA001004,2011,MoHSW_HRIS Annual Report_Yearly,3.4,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49580,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Arusha,TZA001002,2012,MoHSW_HRIS Annual Report_Yearly,2.5,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49582,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Dodoma,TZA001001,2012,MoHSW_HRIS Annual Report_Yearly,3.6,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49583,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Iringa,TZA001011,2012,MoHSW_HRIS Annual Report_Yearly,6.2,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49584,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Kagera,TZA001018,2012,MoHSW_HRIS Annual Report_Yearly,2.8,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49585,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Kigoma,TZA001016,2012,MoHSW_HRIS Annual Report_Yearly,1.9,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49586,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Kilimanjaro,TZA001003,2012,MoHSW_HRIS Annual Report_Yearly,6.5,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49587,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Lindi,TZA001008,2012,MoHSW_HRIS Annual Report_Yearly,4.0,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49588,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Manyara,TZA001021,2012,MoHSW_HRIS Annual Report_Yearly,2.7,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49589,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Mara,TZA001020,2012,MoHSW_HRIS Annual Report_Yearly,3.6,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49590,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Mbeya,TZA001012,2012,MoHSW_HRIS Annual Report_Yearly,4.5,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49591,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Morogoro,TZA001005,2012,MoHSW_HRIS Annual Report_Yearly,3.4,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49592,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Mtwara,TZA001009,2012,MoHSW_HRIS Annual Report_Yearly,2.8,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49593,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Mwanza,TZA001019,2012,MoHSW_HRIS Annual Report_Yearly,3.1,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49594,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Pwani,TZA001006,2012,MoHSW_HRIS Annual Report_Yearly,2.9,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49595,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Rukwa,TZA001015,2012,MoHSW_HRIS Annual Report_Yearly,2.1,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49596,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Ruvuma,TZA001010,2012,MoHSW_HRIS Annual Report_Yearly,4.7,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49597,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Shinyanga,TZA001017,2012,MoHSW_HRIS Annual Report_Yearly,1.9,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49598,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Singida,TZA001013,2012,MoHSW_HRIS Annual Report_Yearly,3.4,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49599,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Tabora,TZA001014,2012,MoHSW_HRIS Annual Report_Yearly,1.7,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49600,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Tanga,TZA001004,2012,MoHSW_HRIS Annual Report_Yearly,3.6,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49602,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Arusha,TZA001002,2013,MoHSW_HRIS Annual Report_Yearly,5.95,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49604,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Dodoma,TZA001001,2013,MoHSW_HRIS Annual Report_Yearly,4.62,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49605,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Geita,TZA001025,2013,MoHSW_HRIS Annual Report_Yearly,2.23,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49606,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Iringa,TZA001011,2013,MoHSW_HRIS Annual Report_Yearly,7.66,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49607,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Kagera,TZA001018,2013,MoHSW_HRIS Annual Report_Yearly,4.2,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49608,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Katavi,TZA001023,2013,MoHSW_HRIS Annual Report_Yearly,1.52,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49609,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Kigoma,TZA001016,2013,MoHSW_HRIS Annual Report_Yearly,2.44,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49610,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Kilimanjaro,TZA001003,2013,MoHSW_HRIS Annual Report_Yearly,10.35,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49611,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Lindi,TZA001008,2013,MoHSW_HRIS Annual Report_Yearly,5.6,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49612,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Manyara,TZA001021,2013,MoHSW_HRIS Annual Report_Yearly,5.72,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49613,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Mara,TZA001020,2013,MoHSW_HRIS Annual Report_Yearly,4.56,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49614,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Mbeya,TZA001012,2013,MoHSW_HRIS Annual Report_Yearly,6.76,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49615,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Morogoro,TZA001005,2013,MoHSW_HRIS Annual Report_Yearly,5.19,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49616,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Mtwara,TZA001009,2013,MoHSW_HRIS Annual Report_Yearly,4.63,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49617,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Mwanza,TZA001019,2013,MoHSW_HRIS Annual Report_Yearly,4.96,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49618,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Njombe,TZA001022,2013,MoHSW_HRIS Annual Report_Yearly,9.64,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49619,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Pwani,TZA001006,2013,MoHSW_HRIS Annual Report_Yearly,6.25,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49620,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Rukwa,TZA001015,2013,MoHSW_HRIS Annual Report_Yearly,3.42,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49621,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Ruvuma,TZA001010,2013,MoHSW_HRIS Annual Report_Yearly,5.28,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49622,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Shinyanga,TZA001017,2013,MoHSW_HRIS Annual Report_Yearly,3.86,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49623,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Simiyu,TZA001024,2013,MoHSW_HRIS Annual Report_Yearly,1.81,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49624,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Singida,TZA001013,2013,MoHSW_HRIS Annual Report_Yearly,4.41,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49625,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Tabora,TZA001014,2013,MoHSW_HRIS Annual Report_Yearly,2.28,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49626,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Tanga,TZA001004,2013,MoHSW_HRIS Annual Report_Yearly,4.36,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49628,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Arusha,TZA001002,2011,MoHSW_HRIS Annual Report_Yearly,3.4,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49630,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Dodoma,TZA001001,2011,MoHSW_HRIS Annual Report_Yearly,4.6,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+49631,"Health worker density per 10,000 population-nurse and midwife",Ratio,Total,Iringa,TZA001011,2011,MoHSW_HRIS Annual Report_Yearly,3.9,"TZA_Human Resource Information System (HRIS) - Annual Report, Various Reports, Ministry of Health and Social Welfare (MoHSW)"
+59909,GDP per capita (at current prices),Tshs,Total,Iringa,TZA001011,2008,MoFEA_Economic Survey (ES)_Yearly,721871.0,2008TZA001011721871Total
+59910,GDP per capita (at current prices),Tshs,Total,Mbeya,TZA001012,2008,MoFEA_Economic Survey (ES)_Yearly,643563.0,2008TZA001012643563Total
+59911,GDP per capita (at current prices),Tshs,Total,Singida,TZA001013,2008,MoFEA_Economic Survey (ES)_Yearly,316980.0,2008TZA001013316980Total
+59912,GDP per capita (at current prices),Tshs,Total,Tabora,TZA001014,2008,MoFEA_Economic Survey (ES)_Yearly,429084.0,2008TZA001014429084Total
+59913,GDP per capita (at current prices),Tshs,Total,Rukwa,TZA001015,2008,MoFEA_Economic Survey (ES)_Yearly,564010.0,2008TZA001015564010Total
+59914,GDP per capita (at current prices),Tshs,Total,Dodoma,TZA001001,1987,MoFEA_Economic Survey (ES)_Yearly,8297.53,1987TZA0010018297.53Total
+59915,GDP per capita (at current prices),Tshs,Total,Arusha,TZA001002,1987,MoFEA_Economic Survey (ES)_Yearly,36901.09,1987TZA00100236901.09Total
+59916,GDP per capita (at current prices),Tshs,Total,Kilimanjaro,TZA001003,1987,MoFEA_Economic Survey (ES)_Yearly,10082.77,1987TZA00100310082.77Total
+59917,GDP per capita (at current prices),Tshs,Total,Pwani,TZA001006,1989,MoFEA_Economic Survey (ES)_Yearly,19390.25,1989TZA00100619390.25Total
+59919,GDP per capita (at current prices),Tshs,Total,Lindi,TZA001008,1989,MoFEA_Economic Survey (ES)_Yearly,19611.14,1989TZA00100819611.14Total
+59920,GDP per capita (at current prices),Tshs,Total,Mtwara,TZA001009,1989,MoFEA_Economic Survey (ES)_Yearly,18696.07,1989TZA00100918696.07Total
+59921,GDP per capita (at current prices),Tshs,Total,Ruvuma,TZA001010,1989,MoFEA_Economic Survey (ES)_Yearly,27059.91,1989TZA00101027059.91Total
+59922,GDP per capita (at current prices),Tshs,Total,Iringa,TZA001011,1989,MoFEA_Economic Survey (ES)_Yearly,26627.46,1989TZA00101126627.46Total
+59923,GDP per capita (at current prices),Tshs,Total,Mbeya,TZA001012,1989,MoFEA_Economic Survey (ES)_Yearly,22064.8,1989TZA00101222064.8Total
+59924,GDP per capita (at current prices),Tshs,Total,Singida,TZA001013,1989,MoFEA_Economic Survey (ES)_Yearly,21710.65,1989TZA00101321710.65Total
+59925,GDP per capita (at current prices),Tshs,Total,Tabora,TZA001014,1989,MoFEA_Economic Survey (ES)_Yearly,21078.24,1989TZA00101421078.24Total
+59926,GDP per capita (at current prices),Tshs,Total,Rukwa,TZA001015,1989,MoFEA_Economic Survey (ES)_Yearly,30232.24,1989TZA00101530232.24Total
+59927,GDP per capita (at current prices),Tshs,Total,Kigoma,TZA001016,1989,MoFEA_Economic Survey (ES)_Yearly,16081.26,1989TZA00101616081.26Total
+59928,GDP per capita (at current prices),Tshs,Total,Shinyanga,TZA001017,1989,MoFEA_Economic Survey (ES)_Yearly,24930.96,1989TZA00101724930.96Total
+59929,GDP per capita (at current prices),Tshs,Total,Kagera,TZA001018,1989,MoFEA_Economic Survey (ES)_Yearly,15719.42,1989TZA00101815719.42Total
+59930,GDP per capita (at current prices),Tshs,Total,Mwanza,TZA001019,1989,MoFEA_Economic Survey (ES)_Yearly,22077.0,1989TZA00101922077Total
+59931,GDP per capita (at current prices),Tshs,Total,Mara,TZA001020,1989,MoFEA_Economic Survey (ES)_Yearly,19930.71,1989TZA00102019930.71Total
+59933,GDP per capita (at current prices),Tshs,Total,Dodoma,TZA001001,1990,MoFEA_Economic Survey (ES)_Yearly,20528.82,1990TZA00100120528.82Total
+59934,GDP per capita (at current prices),Tshs,Total,Arusha,TZA001002,1990,MoFEA_Economic Survey (ES)_Yearly,38997.48,1990TZA00100238997.48Total
+59935,GDP per capita (at current prices),Tshs,Total,Kilimanjaro,TZA001003,1990,MoFEA_Economic Survey (ES)_Yearly,26511.9,1990TZA00100326511.9Total
+59936,GDP per capita (at current prices),Tshs,Total,Tanga,TZA001004,1990,MoFEA_Economic Survey (ES)_Yearly,23679.07,1990TZA00100423679.07Total
+59937,GDP per capita (at current prices),Tshs,Total,Morogoro,TZA001005,1990,MoFEA_Economic Survey (ES)_Yearly,27035.11,1990TZA00100527035.11Total
+59938,GDP per capita (at current prices),Tshs,Total,Pwani,TZA001006,1990,MoFEA_Economic Survey (ES)_Yearly,25516.64,1990TZA00100625516.64Total
+59940,GDP per capita (at current prices),Tshs,Total,Lindi,TZA001008,1990,MoFEA_Economic Survey (ES)_Yearly,24905.15,1990TZA00100824905.15Total
+59941,GDP per capita (at current prices),Tshs,Total,Mtwara,TZA001009,1990,MoFEA_Economic Survey (ES)_Yearly,23670.52,1990TZA00100923670.52Total
+59942,GDP per capita (at current prices),Tshs,Total,Ruvuma,TZA001010,1990,MoFEA_Economic Survey (ES)_Yearly,33004.97,1990TZA00101033004.97Total
+59943,GDP per capita (at current prices),Tshs,Total,Iringa,TZA001011,1990,MoFEA_Economic Survey (ES)_Yearly,33283.45,1990TZA00101133283.45Total
+59944,GDP per capita (at current prices),Tshs,Total,Mbeya,TZA001012,1990,MoFEA_Economic Survey (ES)_Yearly,27037.07,1990TZA00101227037.07Total
+59945,GDP per capita (at current prices),Tshs,Total,Singida,TZA001013,1990,MoFEA_Economic Survey (ES)_Yearly,27156.4,1990TZA00101327156.4Total
+59946,GDP per capita (at current prices),Tshs,Total,Tabora,TZA001014,1990,MoFEA_Economic Survey (ES)_Yearly,26405.44,1990TZA00101426405.44Total
+59947,GDP per capita (at current prices),Tshs,Total,Rukwa,TZA001015,1990,MoFEA_Economic Survey (ES)_Yearly,35780.13,1990TZA00101535780.13Total
+59948,GDP per capita (at current prices),Tshs,Total,Kigoma,TZA001016,1990,MoFEA_Economic Survey (ES)_Yearly,20341.21,1990TZA00101620341.21Total
+59949,GDP per capita (at current prices),Tshs,Total,Shinyanga,TZA001017,1990,MoFEA_Economic Survey (ES)_Yearly,30228.15,1990TZA00101730228.15Total
+59950,GDP per capita (at current prices),Tshs,Total,Kagera,TZA001018,1990,MoFEA_Economic Survey (ES)_Yearly,19751.98,1990TZA00101819751.98Total
+59951,GDP per capita (at current prices),Tshs,Total,Mwanza,TZA001019,1990,MoFEA_Economic Survey (ES)_Yearly,27141.12,1990TZA00101927141.12Total
+59952,GDP per capita (at current prices),Tshs,Total,Mara,TZA001020,1990,MoFEA_Economic Survey (ES)_Yearly,25391.18,1990TZA00102025391.18Total
+59954,GDP per capita (at current prices),Tshs,Total,Dodoma,TZA001001,1991,MoFEA_Economic Survey (ES)_Yearly,26121.45,1991TZA00100126121.45Total
+59955,GDP per capita (at current prices),Tshs,Total,Arusha,TZA001002,1991,MoFEA_Economic Survey (ES)_Yearly,49296.53,1991TZA00100249296.53Total
+59956,GDP per capita (at current prices),Tshs,Total,Kilimanjaro,TZA001003,1991,MoFEA_Economic Survey (ES)_Yearly,32595.84,1991TZA00100332595.84Total
+59957,GDP per capita (at current prices),Tshs,Total,Tanga,TZA001004,1991,MoFEA_Economic Survey (ES)_Yearly,29963.63,1991TZA00100429963.63Total
+59958,GDP per capita (at current prices),Tshs,Total,Morogoro,TZA001005,1991,MoFEA_Economic Survey (ES)_Yearly,34476.58,1991TZA00100534476.58Total
+59959,GDP per capita (at current prices),Tshs,Total,Pwani,TZA001006,1991,MoFEA_Economic Survey (ES)_Yearly,31818.95,1991TZA00100631818.95Total
+59961,GDP per capita (at current prices),Tshs,Total,Lindi,TZA001008,1991,MoFEA_Economic Survey (ES)_Yearly,32020.75,1991TZA00100832020.75Total
+59962,GDP per capita (at current prices),Tshs,Total,Mtwara,TZA001009,1991,MoFEA_Economic Survey (ES)_Yearly,30874.68,1991TZA00100930874.68Total
+59963,GDP per capita (at current prices),Tshs,Total,Ruvuma,TZA001010,1991,MoFEA_Economic Survey (ES)_Yearly,42872.65,1991TZA00101042872.65Total
+59964,GDP per capita (at current prices),Tshs,Total,Iringa,TZA001011,1991,MoFEA_Economic Survey (ES)_Yearly,43043.05,1991TZA00101143043.05Total
+59965,GDP per capita (at current prices),Tshs,Total,Mbeya,TZA001012,1991,MoFEA_Economic Survey (ES)_Yearly,35142.52,1991TZA00101235142.52Total
+59966,GDP per capita (at current prices),Tshs,Total,Singida,TZA001013,1991,MoFEA_Economic Survey (ES)_Yearly,34885.69,1991TZA00101334885.69Total
+59967,GDP per capita (at current prices),Tshs,Total,Tabora,TZA001014,1991,MoFEA_Economic Survey (ES)_Yearly,33985.57,1991TZA00101433985.57Total
+59968,GDP per capita (at current prices),Tshs,Total,Rukwa,TZA001015,1991,MoFEA_Economic Survey (ES)_Yearly,46895.86,1991TZA00101546895.86Total
+59969,GDP per capita (at current prices),Tshs,Total,Kigoma,TZA001016,1991,MoFEA_Economic Survey (ES)_Yearly,25904.85,1991TZA00101625904.85Total
+59970,GDP per capita (at current prices),Tshs,Total,Shinyanga,TZA001017,1991,MoFEA_Economic Survey (ES)_Yearly,39657.18,1991TZA00101739657.18Total
+59971,GDP per capita (at current prices),Tshs,Total,Kagera,TZA001018,1991,MoFEA_Economic Survey (ES)_Yearly,25258.27,1991TZA00101825258.27Total
+59973,GDP per capita (at current prices),Tshs,Total,Dodoma,TZA001001,1994,MoFEA_Economic Survey (ES)_Yearly,53219.78,1994TZA00100153219.78Total
+59974,GDP per capita (at current prices),Tshs,Total,Arusha,TZA001002,1994,MoFEA_Economic Survey (ES)_Yearly,93523.87,1994TZA00100293523.87Total
+59975,GDP per capita (at current prices),Tshs,Total,Kilimanjaro,TZA001003,1994,MoFEA_Economic Survey (ES)_Yearly,59605.61,1994TZA00100359605.61Total
+59976,GDP per capita (at current prices),Tshs,Total,Tanga,TZA001004,1994,MoFEA_Economic Survey (ES)_Yearly,60037.9,1994TZA00100460037.9Total
+59977,GDP per capita (at current prices),Tshs,Total,Morogoro,TZA001005,1994,MoFEA_Economic Survey (ES)_Yearly,67241.18,1994TZA00100567241.18Total
+59978,GDP per capita (at current prices),Tshs,Total,Pwani,TZA001006,1994,MoFEA_Economic Survey (ES)_Yearly,66937.65,1994TZA00100666937.65Total
+59980,GDP per capita (at current prices),Tshs,Total,Lindi,TZA001008,1994,MoFEA_Economic Survey (ES)_Yearly,66444.25,1994TZA00100866444.25Total
+59981,GDP per capita (at current prices),Tshs,Total,Mtwara,TZA001009,1994,MoFEA_Economic Survey (ES)_Yearly,64744.19,1994TZA00100964744.19Total
+59982,GDP per capita (at current prices),Tshs,Total,Ruvuma,TZA001010,1994,MoFEA_Economic Survey (ES)_Yearly,84082.27,1994TZA00101084082.27Total
+59983,GDP per capita (at current prices),Tshs,Total,Iringa,TZA001011,1994,MoFEA_Economic Survey (ES)_Yearly,83448.38,1994TZA00101183448.38Total
+59984,GDP per capita (at current prices),Tshs,Total,Mbeya,TZA001012,1994,MoFEA_Economic Survey (ES)_Yearly,68609.87,1994TZA00101268609.87Total
+59985,GDP per capita (at current prices),Tshs,Total,Singida,TZA001013,1994,MoFEA_Economic Survey (ES)_Yearly,70246.72,1994TZA00101370246.72Total
+59986,GDP per capita (at current prices),Tshs,Total,Tabora,TZA001014,1994,MoFEA_Economic Survey (ES)_Yearly,68713.68,1994TZA00101468713.68Total
+59987,GDP per capita (at current prices),Tshs,Total,Rukwa,TZA001015,1994,MoFEA_Economic Survey (ES)_Yearly,88254.72,1994TZA00101588254.72Total
+59988,GDP per capita (at current prices),Tshs,Total,Kigoma,TZA001016,1994,MoFEA_Economic Survey (ES)_Yearly,52986.07,1994TZA00101652986.07Total
+59989,GDP per capita (at current prices),Tshs,Total,Shinyanga,TZA001017,1994,MoFEA_Economic Survey (ES)_Yearly,77377.41,1994TZA00101777377.41Total
+59990,GDP per capita (at current prices),Tshs,Total,Kagera,TZA001018,1994,MoFEA_Economic Survey (ES)_Yearly,50897.92,1994TZA00101850897.92Total
+59991,GDP per capita (at current prices),Tshs,Total,Mwanza,TZA001019,1994,MoFEA_Economic Survey (ES)_Yearly,69976.4,1994TZA00101969976.4Total
+59992,GDP per capita (at current prices),Tshs,Total,Mara,TZA001020,1994,MoFEA_Economic Survey (ES)_Yearly,64171.09,1994TZA00102064171.09Total
+59994,GDP per capita (at current prices),Tshs,Total,Dodoma,TZA001001,1995,MoFEA_Economic Survey (ES)_Yearly,68290.47,1995TZA00100168290.47Total
+59995,GDP per capita (at current prices),Tshs,Total,Arusha,TZA001002,1995,MoFEA_Economic Survey (ES)_Yearly,124224.83,1995TZA001002124224.83Total
+59996,GDP per capita (at current prices),Tshs,Total,Kilimanjaro,TZA001003,1995,MoFEA_Economic Survey (ES)_Yearly,74001.23,1995TZA00100374001.23Total
+59997,GDP per capita (at current prices),Tshs,Total,Tanga,TZA001004,1995,MoFEA_Economic Survey (ES)_Yearly,76778.27,1995TZA00100476778.27Total
+59998,GDP per capita (at current prices),Tshs,Total,Morogoro,TZA001005,1995,MoFEA_Economic Survey (ES)_Yearly,86596.79,1995TZA00100586596.79Total
+59999,GDP per capita (at current prices),Tshs,Total,Pwani,TZA001006,1995,MoFEA_Economic Survey (ES)_Yearly,84450.99,1995TZA00100684450.99Total
+60001,GDP per capita (at current prices),Tshs,Total,Lindi,TZA001008,1995,MoFEA_Economic Survey (ES)_Yearly,86143.87,1995TZA00100886143.87Total
+60002,GDP per capita (at current prices),Tshs,Total,Mtwara,TZA001009,1995,MoFEA_Economic Survey (ES)_Yearly,85083.21,1995TZA00100985083.21Total
+60003,GDP per capita (at current prices),Tshs,Total,Ruvuma,TZA001010,1995,MoFEA_Economic Survey (ES)_Yearly,109830.44,1995TZA001010109830.44Total
+60004,GDP per capita (at current prices),Tshs,Total,Iringa,TZA001011,1995,MoFEA_Economic Survey (ES)_Yearly,108807.27,1995TZA001011108807.27Total
+60005,GDP per capita (at current prices),Tshs,Total,Mbeya,TZA001012,1995,MoFEA_Economic Survey (ES)_Yearly,89725.98,1995TZA00101289725.98Total
+60006,GDP per capita (at current prices),Tshs,Total,Singida,TZA001013,1995,MoFEA_Economic Survey (ES)_Yearly,90896.31,1995TZA00101390896.31Total
+60007,GDP per capita (at current prices),Tshs,Total,Tabora,TZA001014,1995,MoFEA_Economic Survey (ES)_Yearly,89090.78,1995TZA00101489090.78Total
+60008,GDP per capita (at current prices),Tshs,Total,Rukwa,TZA001015,1995,MoFEA_Economic Survey (ES)_Yearly,116057.64,1995TZA001015116057.64Total
+60009,GDP per capita (at current prices),Tshs,Total,Kigoma,TZA001016,1995,MoFEA_Economic Survey (ES)_Yearly,68063.02,1995TZA00101668063.02Total
+60010,GDP per capita (at current prices),Tshs,Total,Shinyanga,TZA001017,1995,MoFEA_Economic Survey (ES)_Yearly,102001.09,1995TZA001017102001.09Total
+60011,GDP per capita (at current prices),Tshs,Total,Kagera,TZA001018,1995,MoFEA_Economic Survey (ES)_Yearly,65606.93,1995TZA00101865606.93Total
+60012,GDP per capita (at current prices),Tshs,Total,Mwanza,TZA001019,1995,MoFEA_Economic Survey (ES)_Yearly,91955.73,1995TZA00101991955.73Total
+60013,GDP per capita (at current prices),Tshs,Total,Mara,TZA001020,1995,MoFEA_Economic Survey (ES)_Yearly,81475.68,1995TZA00102081475.68Total
+60015,GDP per capita (at current prices),Tshs,Total,Dodoma,TZA001001,1996,MoFEA_Economic Survey (ES)_Yearly,82447.5,1996TZA00100182447.5Total
+60016,GDP per capita (at current prices),Tshs,Total,Arusha,TZA001002,1996,MoFEA_Economic Survey (ES)_Yearly,148622.39,1996TZA001002148622.39Total
+60017,GDP per capita (at current prices),Tshs,Total,Kilimanjaro,TZA001003,1996,MoFEA_Economic Survey (ES)_Yearly,86463.97,1996TZA00100386463.97Total
+60018,GDP per capita (at current prices),Tshs,Total,Tanga,TZA001004,1996,MoFEA_Economic Survey (ES)_Yearly,92948.4,1996TZA00100492948.4Total
+60019,GDP per capita (at current prices),Tshs,Total,Morogoro,TZA001005,1996,MoFEA_Economic Survey (ES)_Yearly,104777.5,1996TZA001005104777.5Total
+60020,GDP per capita (at current prices),Tshs,Total,Pwani,TZA001006,1996,MoFEA_Economic Survey (ES)_Yearly,101164.16,1996TZA001006101164.16Total
+60022,GDP per capita (at current prices),Tshs,Total,Lindi,TZA001008,1996,MoFEA_Economic Survey (ES)_Yearly,104347.77,1996TZA001008104347.77Total
+60023,GDP per capita (at current prices),Tshs,Total,Mtwara,TZA001009,1996,MoFEA_Economic Survey (ES)_Yearly,103892.47,1996TZA001009103892.47Total
+60024,GDP per capita (at current prices),Tshs,Total,Ruvuma,TZA001010,1996,MoFEA_Economic Survey (ES)_Yearly,132231.16,1996TZA001010132231.16Total
+60025,GDP per capita (at current prices),Tshs,Total,Iringa,TZA001011,1996,MoFEA_Economic Survey (ES)_Yearly,132082.81,1996TZA001011132082.81Total
+60026,GDP per capita (at current prices),Tshs,Total,Mbeya,TZA001012,1996,MoFEA_Economic Survey (ES)_Yearly,108404.67,1996TZA001012108404.67Total
+60027,GDP per capita (at current prices),Tshs,Total,Tanga,TZA001004,1987,MoFEA_Economic Survey (ES)_Yearly,10583.15,1987TZA00100410583.15Total
+60028,GDP per capita (at current prices),Tshs,Total,Morogoro,TZA001005,1987,MoFEA_Economic Survey (ES)_Yearly,12095.33,1987TZA00100512095.33Total
+60029,GDP per capita (at current prices),Tshs,Total,Pwani,TZA001006,1987,MoFEA_Economic Survey (ES)_Yearly,5039.02,1987TZA0010065039.02Total
+60031,GDP per capita (at current prices),Tshs,Total,Lindi,TZA001008,1987,MoFEA_Economic Survey (ES)_Yearly,6033.97,1987TZA0010086033.97Total
+60032,GDP per capita (at current prices),Tshs,Total,Mtwara,TZA001009,1987,MoFEA_Economic Survey (ES)_Yearly,13635.44,1987TZA00100913635.44Total
+60033,GDP per capita (at current prices),Tshs,Total,Ruvuma,TZA001010,1987,MoFEA_Economic Survey (ES)_Yearly,11929.12,1987TZA00101011929.12Total
+60034,GDP per capita (at current prices),Tshs,Total,Iringa,TZA001011,1987,MoFEA_Economic Survey (ES)_Yearly,12078.41,1987TZA00101112078.41Total
+60035,GDP per capita (at current prices),Tshs,Total,Mbeya,TZA001012,1987,MoFEA_Economic Survey (ES)_Yearly,14602.63,1987TZA00101214602.63Total
+60036,GDP per capita (at current prices),Tshs,Total,Singida,TZA001013,1987,MoFEA_Economic Survey (ES)_Yearly,10542.77,1987TZA00101310542.77Total
+60037,GDP per capita (at current prices),Tshs,Total,Tabora,TZA001014,1987,MoFEA_Economic Survey (ES)_Yearly,6401.92,1987TZA0010146401.92Total
+60038,GDP per capita (at current prices),Tshs,Total,Rukwa,TZA001015,1987,MoFEA_Economic Survey (ES)_Yearly,16948.32,1987TZA00101516948.32Total
+60039,GDP per capita (at current prices),Tshs,Total,Kigoma,TZA001016,1987,MoFEA_Economic Survey (ES)_Yearly,9580.69,1987TZA0010169580.69Total
+60040,GDP per capita (at current prices),Tshs,Total,Shinyanga,TZA001017,1987,MoFEA_Economic Survey (ES)_Yearly,13884.27,1987TZA00101713884.27Total
+60041,GDP per capita (at current prices),Tshs,Total,Kagera,TZA001018,1987,MoFEA_Economic Survey (ES)_Yearly,14794.21,1987TZA00101814794.21Total
+60042,GDP per capita (at current prices),Tshs,Total,Mwanza,TZA001019,1987,MoFEA_Economic Survey (ES)_Yearly,21873.63,1987TZA00101921873.63Total
+60043,GDP per capita (at current prices),Tshs,Total,Mara,TZA001020,1987,MoFEA_Economic Survey (ES)_Yearly,8333.89,1987TZA0010208333.89Total
+60045,GDP per capita (at current prices),Tshs,Total,Dodoma,TZA001001,1988,MoFEA_Economic Survey (ES)_Yearly,13341.97,1988TZA00100113341.97Total
+60046,GDP per capita (at current prices),Tshs,Total,Arusha,TZA001002,1988,MoFEA_Economic Survey (ES)_Yearly,26032.07,1988TZA00100226032.07Total
+60047,GDP per capita (at current prices),Tshs,Total,Kilimanjaro,TZA001003,1988,MoFEA_Economic Survey (ES)_Yearly,18028.59,1988TZA00100318028.59Total
+60048,GDP per capita (at current prices),Tshs,Total,Tanga,TZA001004,1988,MoFEA_Economic Survey (ES)_Yearly,14695.08,1988TZA00100414695.08Total
+60049,GDP per capita (at current prices),Tshs,Total,Morogoro,TZA001005,1988,MoFEA_Economic Survey (ES)_Yearly,17421.96,1988TZA00100517421.96Total
+60050,GDP per capita (at current prices),Tshs,Total,Pwani,TZA001006,1988,MoFEA_Economic Survey (ES)_Yearly,15496.63,1988TZA00100615496.63Total
+60052,GDP per capita (at current prices),Tshs,Total,Lindi,TZA001008,1988,MoFEA_Economic Survey (ES)_Yearly,16237.19,1988TZA00100816237.19Total
+60053,GDP per capita (at current prices),Tshs,Total,Mtwara,TZA001009,1988,MoFEA_Economic Survey (ES)_Yearly,15509.64,1988TZA00100915509.64Total
+60054,GDP per capita (at current prices),Tshs,Total,Ruvuma,TZA001010,1988,MoFEA_Economic Survey (ES)_Yearly,23256.31,1988TZA00101023256.31Total
+60055,GDP per capita (at current prices),Tshs,Total,Iringa,TZA001011,1988,MoFEA_Economic Survey (ES)_Yearly,22348.73,1988TZA00101122348.73Total
+60056,GDP per capita (at current prices),Tshs,Total,Mbeya,TZA001012,1988,MoFEA_Economic Survey (ES)_Yearly,18863.11,1988TZA00101218863.11Total
+60057,GDP per capita (at current prices),Tshs,Total,Singida,TZA001013,1988,MoFEA_Economic Survey (ES)_Yearly,18135.6,1988TZA00101318135.6Total
+60058,GDP per capita (at current prices),Tshs,Total,Tabora,TZA001014,1988,MoFEA_Economic Survey (ES)_Yearly,17601.68,1988TZA00101417601.68Total
+60059,GDP per capita (at current prices),Tshs,Total,Rukwa,TZA001015,1988,MoFEA_Economic Survey (ES)_Yearly,26698.52,1988TZA00101526698.52Total
+60060,GDP per capita (at current prices),Tshs,Total,Kigoma,TZA001016,1988,MoFEA_Economic Survey (ES)_Yearly,13353.63,1988TZA00101613353.63Total
+60061,GDP per capita (at current prices),Tshs,Total,Shinyanga,TZA001017,1988,MoFEA_Economic Survey (ES)_Yearly,21441.26,1988TZA00101721441.26Total
+60062,GDP per capita (at current prices),Tshs,Total,Kagera,TZA001018,1988,MoFEA_Economic Survey (ES)_Yearly,13115.63,1988TZA00101813115.63Total
+60063,GDP per capita (at current prices),Tshs,Total,Mwanza,TZA001019,1988,MoFEA_Economic Survey (ES)_Yearly,18770.23,1988TZA00101918770.23Total
+60064,GDP per capita (at current prices),Tshs,Total,Mara,TZA001020,1988,MoFEA_Economic Survey (ES)_Yearly,16375.06,1988TZA00102016375.06Total
+60066,GDP per capita (at current prices),Tshs,Total,Dodoma,TZA001001,1989,MoFEA_Economic Survey (ES)_Yearly,16184.34,1989TZA00100116184.34Total
+60067,GDP per capita (at current prices),Tshs,Total,Arusha,TZA001002,1989,MoFEA_Economic Survey (ES)_Yearly,31137.48,1989TZA00100231137.48Total
+60068,GDP per capita (at current prices),Tshs,Total,Kilimanjaro,TZA001003,1989,MoFEA_Economic Survey (ES)_Yearly,21334.13,1989TZA00100321334.13Total
+60069,GDP per capita (at current prices),Tshs,Total,Tanga,TZA001004,1989,MoFEA_Economic Survey (ES)_Yearly,18204.1,1989TZA00100418204.1Total
+60070,GDP per capita (at current prices),Tshs,Total,Morogoro,TZA001005,1989,MoFEA_Economic Survey (ES)_Yearly,21172.94,1989TZA00100521172.94Total
+60071,GDP per capita (at current prices),Tshs,Total,Mwanza,TZA001019,1991,MoFEA_Economic Survey (ES)_Yearly,35453.31,1991TZA00101935453.31Total
+60072,GDP per capita (at current prices),Tshs,Total,Mara,TZA001020,1991,MoFEA_Economic Survey (ES)_Yearly,31940.93,1991TZA00102031940.93Total
+60074,GDP per capita (at current prices),Tshs,Total,Dodoma,TZA001001,1992,MoFEA_Economic Survey (ES)_Yearly,33142.4,1992TZA00100133142.4Total
+60075,GDP per capita (at current prices),Tshs,Total,Arusha,TZA001002,1992,MoFEA_Economic Survey (ES)_Yearly,61066.19,1992TZA00100261066.19Total
+60076,GDP per capita (at current prices),Tshs,Total,Kilimanjaro,TZA001003,1992,MoFEA_Economic Survey (ES)_Yearly,39769.06,1992TZA00100339769.06Total
+60077,GDP per capita (at current prices),Tshs,Total,Tanga,TZA001004,1992,MoFEA_Economic Survey (ES)_Yearly,37531.57,1992TZA00100437531.57Total
+60078,GDP per capita (at current prices),Tshs,Total,Morogoro,TZA001005,1992,MoFEA_Economic Survey (ES)_Yearly,43008.87,1992TZA00100543008.87Total
+60079,GDP per capita (at current prices),Tshs,Total,Pwani,TZA001006,1992,MoFEA_Economic Survey (ES)_Yearly,40399.43,1992TZA00100640399.43Total
+60081,GDP per capita (at current prices),Tshs,Total,Lindi,TZA001008,1992,MoFEA_Economic Survey (ES)_Yearly,40975.32,1992TZA00100840975.32Total
+60082,GDP per capita (at current prices),Tshs,Total,Mtwara,TZA001009,1992,MoFEA_Economic Survey (ES)_Yearly,39778.23,1992TZA00100939778.23Total
+60083,GDP per capita (at current prices),Tshs,Total,Ruvuma,TZA001010,1992,MoFEA_Economic Survey (ES)_Yearly,54344.97,1992TZA00101054344.97Total
+60084,GDP per capita (at current prices),Tshs,Total,Iringa,TZA001011,1992,MoFEA_Economic Survey (ES)_Yearly,53964.04,1992TZA00101153964.04Total
+60085,GDP per capita (at current prices),Tshs,Total,Mbeya,TZA001012,1992,MoFEA_Economic Survey (ES)_Yearly,44420.0,1992TZA00101244420Total
+60086,GDP per capita (at current prices),Tshs,Total,Singida,TZA001013,1992,MoFEA_Economic Survey (ES)_Yearly,44275.06,1992TZA00101344275.06Total
+60087,GDP per capita (at current prices),Tshs,Total,Tabora,TZA001014,1992,MoFEA_Economic Survey (ES)_Yearly,43202.24,1992TZA00101443202.24Total
+60088,GDP per capita (at current prices),Tshs,Total,Rukwa,TZA001015,1992,MoFEA_Economic Survey (ES)_Yearly,59045.72,1992TZA00101559045.72Total
+60089,GDP per capita (at current prices),Tshs,Total,Kigoma,TZA001016,1992,MoFEA_Economic Survey (ES)_Yearly,32977.61,1992TZA00101632977.61Total
+60090,GDP per capita (at current prices),Tshs,Total,Shinyanga,TZA001017,1992,MoFEA_Economic Survey (ES)_Yearly,50292.4,1992TZA00101750292.4Total
+60091,GDP per capita (at current prices),Tshs,Total,Kagera,TZA001018,1992,MoFEA_Economic Survey (ES)_Yearly,32024.29,1992TZA00101832024.29Total
+60092,GDP per capita (at current prices),Tshs,Total,Mwanza,TZA001019,1992,MoFEA_Economic Survey (ES)_Yearly,44979.79,1992TZA00101944979.79Total
+60093,GDP per capita (at current prices),Tshs,Total,Mara,TZA001020,1992,MoFEA_Economic Survey (ES)_Yearly,40211.46,1992TZA00102040211.46Total
+60095,GDP per capita (at current prices),Tshs,Total,Dodoma,TZA001001,1993,MoFEA_Economic Survey (ES)_Yearly,41150.13,1993TZA00100141150.13Total
+60096,GDP per capita (at current prices),Tshs,Total,Arusha,TZA001002,1993,MoFEA_Economic Survey (ES)_Yearly,73866.8,1993TZA00100273866.8Total
+60097,GDP per capita (at current prices),Tshs,Total,Kilimanjaro,TZA001003,1993,MoFEA_Economic Survey (ES)_Yearly,47454.72,1993TZA00100347454.72Total
+60098,GDP per capita (at current prices),Tshs,Total,Tanga,TZA001004,1993,MoFEA_Economic Survey (ES)_Yearly,46056.22,1993TZA00100446056.22Total
+60099,GDP per capita (at current prices),Tshs,Total,Morogoro,TZA001005,1993,MoFEA_Economic Survey (ES)_Yearly,52372.42,1993TZA00100552372.42Total
+60100,GDP per capita (at current prices),Tshs,Total,Pwani,TZA001006,1993,MoFEA_Economic Survey (ES)_Yearly,50426.3,1993TZA00100650426.3Total
+60102,GDP per capita (at current prices),Tshs,Total,Lindi,TZA001008,1993,MoFEA_Economic Survey (ES)_Yearly,51155.21,1993TZA00100851155.21Total
+60103,GDP per capita (at current prices),Tshs,Total,Mtwara,TZA001009,1993,MoFEA_Economic Survey (ES)_Yearly,49878.3,1993TZA00100949878.3Total
+60104,GDP per capita (at current prices),Tshs,Total,Ruvuma,TZA001010,1993,MoFEA_Economic Survey (ES)_Yearly,66799.61,1993TZA00101066799.61Total
+60105,GDP per capita (at current prices),Tshs,Total,Iringa,TZA001011,1993,MoFEA_Economic Survey (ES)_Yearly,65800.87,1993TZA00101165800.87Total
+60106,GDP per capita (at current prices),Tshs,Total,Mbeya,TZA001012,1993,MoFEA_Economic Survey (ES)_Yearly,54481.6,1993TZA00101254481.6Total
+60107,GDP per capita (at current prices),Tshs,Total,Singida,TZA001013,1993,MoFEA_Economic Survey (ES)_Yearly,54850.2,1993TZA00101354850.2Total
+60108,GDP per capita (at current prices),Tshs,Total,Tabora,TZA001014,1993,MoFEA_Economic Survey (ES)_Yearly,53571.61,1993TZA00101453571.61Total
+60109,GDP per capita (at current prices),Tshs,Total,Rukwa,TZA001015,1993,MoFEA_Economic Survey (ES)_Yearly,71769.48,1993TZA00101571769.48Total
+60110,GDP per capita (at current prices),Tshs,Total,Kigoma,TZA001016,1993,MoFEA_Economic Survey (ES)_Yearly,40961.58,1993TZA00101640961.58Total
+60111,GDP per capita (at current prices),Tshs,Total,Shinyanga,TZA001017,1993,MoFEA_Economic Survey (ES)_Yearly,61824.5,1993TZA00101761824.5Total
+60112,GDP per capita (at current prices),Tshs,Total,Kagera,TZA001018,1993,MoFEA_Economic Survey (ES)_Yearly,39621.12,1993TZA00101839621.12Total
+60113,GDP per capita (at current prices),Tshs,Total,Mwanza,TZA001019,1993,MoFEA_Economic Survey (ES)_Yearly,55401.7,1993TZA00101955401.7Total
+60114,GDP per capita (at current prices),Tshs,Total,Mara,TZA001020,1993,MoFEA_Economic Survey (ES)_Yearly,49615.31,1993TZA00102049615.31Total
+60115,GDP per capita (at current prices),Tshs,Total,Singida,TZA001013,1996,MoFEA_Economic Survey (ES)_Yearly,110091.58,1996TZA001013110091.58Total
+60116,GDP per capita (at current prices),Tshs,Total,Tabora,TZA001014,1996,MoFEA_Economic Survey (ES)_Yearly,107945.57,1996TZA001014107945.57Total
+60117,GDP per capita (at current prices),Tshs,Total,Rukwa,TZA001015,1996,MoFEA_Economic Survey (ES)_Yearly,139266.1,1996TZA001015139266.1Total
+60118,GDP per capita (at current prices),Tshs,Total,Kigoma,TZA001016,1996,MoFEA_Economic Survey (ES)_Yearly,81602.43,1996TZA00101681602.43Total
+60119,GDP per capita (at current prices),Tshs,Total,Shinyanga,TZA001017,1996,MoFEA_Economic Survey (ES)_Yearly,123896.73,1996TZA001017123896.73Total
+60120,GDP per capita (at current prices),Tshs,Total,Kagera,TZA001018,1996,MoFEA_Economic Survey (ES)_Yearly,79074.41,1996TZA00101879074.41Total
+60121,GDP per capita (at current prices),Tshs,Total,Mwanza,TZA001019,1996,MoFEA_Economic Survey (ES)_Yearly,111772.35,1996TZA001019111772.35Total
+60122,GDP per capita (at current prices),Tshs,Total,Mara,TZA001020,1996,MoFEA_Economic Survey (ES)_Yearly,97686.16,1996TZA00102097686.16Total
+60124,GDP per capita (at current prices),Tshs,Total,Dodoma,TZA001001,1997,MoFEA_Economic Survey (ES)_Yearly,100763.45,1997TZA001001100763.45Total
+60125,GDP per capita (at current prices),Tshs,Total,Arusha,TZA001002,1997,MoFEA_Economic Survey (ES)_Yearly,177342.86,1997TZA001002177342.86Total
+60126,GDP per capita (at current prices),Tshs,Total,Kilimanjaro,TZA001003,1997,MoFEA_Economic Survey (ES)_Yearly,101456.7,1997TZA001003101456.7Total
+60127,GDP per capita (at current prices),Tshs,Total,Tanga,TZA001004,1997,MoFEA_Economic Survey (ES)_Yearly,112776.78,1997TZA001004112776.78Total
+60128,GDP per capita (at current prices),Tshs,Total,Morogoro,TZA001005,1997,MoFEA_Economic Survey (ES)_Yearly,125739.08,1997TZA001005125739.08Total
+60129,GDP per capita (at current prices),Tshs,Total,Pwani,TZA001006,1997,MoFEA_Economic Survey (ES)_Yearly,124188.38,1997TZA001006124188.38Total
+60131,GDP per capita (at current prices),Tshs,Total,Lindi,TZA001008,1997,MoFEA_Economic Survey (ES)_Yearly,126948.81,1997TZA001008126948.81Total
+60132,GDP per capita (at current prices),Tshs,Total,Mtwara,TZA001009,1997,MoFEA_Economic Survey (ES)_Yearly,126872.84,1997TZA001009126872.84Total
+60133,GDP per capita (at current prices),Tshs,Total,Ruvuma,TZA001010,1997,MoFEA_Economic Survey (ES)_Yearly,157749.42,1997TZA001010157749.42Total
+60134,GDP per capita (at current prices),Tshs,Total,Iringa,TZA001011,1997,MoFEA_Economic Survey (ES)_Yearly,157894.56,1997TZA001011157894.56Total
+60135,GDP per capita (at current prices),Tshs,Total,Mbeya,TZA001012,1997,MoFEA_Economic Survey (ES)_Yearly,129449.3,1997TZA001012129449.3Total
+60136,GDP per capita (at current prices),Tshs,Total,Singida,TZA001013,1997,MoFEA_Economic Survey (ES)_Yearly,133565.37,1997TZA001013133565.37Total
+60137,GDP per capita (at current prices),Tshs,Total,Tabora,TZA001014,1997,MoFEA_Economic Survey (ES)_Yearly,130943.3,1997TZA001014130943.3Total
+60138,GDP per capita (at current prices),Tshs,Total,Rukwa,TZA001015,1997,MoFEA_Economic Survey (ES)_Yearly,163745.31,1997TZA001015163745.31Total
+60139,GDP per capita (at current prices),Tshs,Total,Kigoma,TZA001016,1997,MoFEA_Economic Survey (ES)_Yearly,98961.04,1997TZA00101698961.04Total
+60140,GDP per capita (at current prices),Tshs,Total,Shinyanga,TZA001017,1997,MoFEA_Economic Survey (ES)_Yearly,148404.14,1997TZA001017148404.14Total
+60141,GDP per capita (at current prices),Tshs,Total,Kagera,TZA001018,1997,MoFEA_Economic Survey (ES)_Yearly,95623.27,1997TZA00101895623.27Total
+60142,GDP per capita (at current prices),Tshs,Total,Mwanza,TZA001019,1997,MoFEA_Economic Survey (ES)_Yearly,134335.27,1997TZA001019134335.27Total
+60143,GDP per capita (at current prices),Tshs,Total,Mara,TZA001020,1997,MoFEA_Economic Survey (ES)_Yearly,118591.24,1997TZA001020118591.24Total
+60145,GDP per capita (at current prices),Tshs,Total,Dodoma,TZA001001,1998,MoFEA_Economic Survey (ES)_Yearly,115375.21,1998TZA001001115375.21Total
+60146,GDP per capita (at current prices),Tshs,Total,Arusha,TZA001002,1998,MoFEA_Economic Survey (ES)_Yearly,201165.44,1998TZA001002201165.44Total
+60147,GDP per capita (at current prices),Tshs,Total,Kilimanjaro,TZA001003,1998,MoFEA_Economic Survey (ES)_Yearly,116972.8,1998TZA001003116972.8Total
+60148,GDP per capita (at current prices),Tshs,Total,Tanga,TZA001004,1998,MoFEA_Economic Survey (ES)_Yearly,130740.6,1998TZA001004130740.6Total
+60149,GDP per capita (at current prices),Tshs,Total,Morogoro,TZA001005,1998,MoFEA_Economic Survey (ES)_Yearly,145819.19,1998TZA001005145819.19Total
+60150,GDP per capita (at current prices),Tshs,Total,Pwani,TZA001006,1998,MoFEA_Economic Survey (ES)_Yearly,142715.55,1998TZA001006142715.55Total
+60152,GDP per capita (at current prices),Tshs,Total,Lindi,TZA001008,1998,MoFEA_Economic Survey (ES)_Yearly,145413.17,1998TZA001008145413.17Total
+60153,GDP per capita (at current prices),Tshs,Total,Mtwara,TZA001009,1998,MoFEA_Economic Survey (ES)_Yearly,188853.7,1998TZA001009188853.7Total
+60154,GDP per capita (at current prices),Tshs,Total,Ruvuma,TZA001010,1998,MoFEA_Economic Survey (ES)_Yearly,180359.88,1998TZA001010180359.88Total
+60155,GDP per capita (at current prices),Tshs,Total,Iringa,TZA001011,1998,MoFEA_Economic Survey (ES)_Yearly,182412.36,1998TZA001011182412.36Total
+60156,GDP per capita (at current prices),Tshs,Total,Mbeya,TZA001012,1998,MoFEA_Economic Survey (ES)_Yearly,148381.41,1998TZA001012148381.41Total
+60157,GDP per capita (at current prices),Tshs,Total,Singida,TZA001013,1998,MoFEA_Economic Survey (ES)_Yearly,152845.43,1998TZA001013152845.43Total
+60158,GDP per capita (at current prices),Tshs,Total,Tabora,TZA001014,1998,MoFEA_Economic Survey (ES)_Yearly,149895.83,1998TZA001014149895.83Total
+60159,GDP per capita (at current prices),Tshs,Total,Rukwa,TZA001015,1998,MoFEA_Economic Survey (ES)_Yearly,187015.71,1998TZA001015187015.71Total
+60160,GDP per capita (at current prices),Tshs,Total,Kigoma,TZA001016,1998,MoFEA_Economic Survey (ES)_Yearly,113172.56,1998TZA001016113172.56Total
+60161,GDP per capita (at current prices),Tshs,Total,Shinyanga,TZA001017,1998,MoFEA_Economic Survey (ES)_Yearly,169692.04,1998TZA001017169692.04Total
+60162,GDP per capita (at current prices),Tshs,Total,Kagera,TZA001018,1998,MoFEA_Economic Survey (ES)_Yearly,109536.45,1998TZA001018109536.45Total
+60163,GDP per capita (at current prices),Tshs,Total,Mwanza,TZA001019,1998,MoFEA_Economic Survey (ES)_Yearly,153934.02,1998TZA001019153934.02Total
+60164,GDP per capita (at current prices),Tshs,Total,Mara,TZA001020,1998,MoFEA_Economic Survey (ES)_Yearly,136055.38,1998TZA001020136055.38Total
+60166,GDP per capita (at current prices),Tshs,Total,Dodoma,TZA001001,1999,MoFEA_Economic Survey (ES)_Yearly,130243.08,1999TZA001001130243.08Total
+60167,GDP per capita (at current prices),Tshs,Total,Arusha,TZA001002,1999,MoFEA_Economic Survey (ES)_Yearly,227088.66,1999TZA001002227088.66Total
+60168,GDP per capita (at current prices),Tshs,Total,Kilimanjaro,TZA001003,1999,MoFEA_Economic Survey (ES)_Yearly,132046.52,1999TZA001003132046.52Total
+60169,GDP per capita (at current prices),Tshs,Total,Tanga,TZA001004,1999,MoFEA_Economic Survey (ES)_Yearly,147588.54,1999TZA001004147588.54Total
+60170,GDP per capita (at current prices),Tshs,Total,Morogoro,TZA001005,1999,MoFEA_Economic Survey (ES)_Yearly,164610.16,1999TZA001005164610.16Total
+60171,GDP per capita (at current prices),Tshs,Total,Pwani,TZA001006,1999,MoFEA_Economic Survey (ES)_Yearly,161106.51,1999TZA001006161106.51Total
+60173,GDP per capita (at current prices),Tshs,Total,Lindi,TZA001008,1999,MoFEA_Economic Survey (ES)_Yearly,164151.85,1999TZA001008164151.85Total
+60174,GDP per capita (at current prices),Tshs,Total,Mtwara,TZA001009,1999,MoFEA_Economic Survey (ES)_Yearly,225981.77,1999TZA001009225981.77Total
+60175,GDP per capita (at current prices),Tshs,Total,Ruvuma,TZA001010,1999,MoFEA_Economic Survey (ES)_Yearly,203601.99,1999TZA001010203601.99Total
+60176,GDP per capita (at current prices),Tshs,Total,Iringa,TZA001011,1999,MoFEA_Economic Survey (ES)_Yearly,205918.91,1999TZA001011205918.91Total
+60177,GDP per capita (at current prices),Tshs,Total,Mbeya,TZA001012,1999,MoFEA_Economic Survey (ES)_Yearly,167502.63,1999TZA001012167502.63Total
+60178,GDP per capita (at current prices),Tshs,Total,Singida,TZA001013,1999,MoFEA_Economic Survey (ES)_Yearly,172541.87,1999TZA001013172541.87Total
+60179,GDP per capita (at current prices),Tshs,Total,Tabora,TZA001014,1999,MoFEA_Economic Survey (ES)_Yearly,169212.2,1999TZA001014169212.2Total
+60180,GDP per capita (at current prices),Tshs,Total,Rukwa,TZA001015,1999,MoFEA_Economic Survey (ES)_Yearly,211115.47,1999TZA001015211115.47Total
+60181,GDP per capita (at current prices),Tshs,Total,Kigoma,TZA001016,1999,MoFEA_Economic Survey (ES)_Yearly,127756.55,1999TZA001016127756.55Total
+60182,GDP per capita (at current prices),Tshs,Total,Shinyanga,TZA001017,1999,MoFEA_Economic Survey (ES)_Yearly,191559.45,1999TZA001017191559.45Total
+60183,GDP per capita (at current prices),Tshs,Total,Kagera,TZA001018,1999,MoFEA_Economic Survey (ES)_Yearly,123651.89,1999TZA001018123651.89Total
+60184,GDP per capita (at current prices),Tshs,Total,Mwanza,TZA001019,1999,MoFEA_Economic Survey (ES)_Yearly,173770.76,1999TZA001019173770.76Total
+60185,GDP per capita (at current prices),Tshs,Total,Mara,TZA001020,1999,MoFEA_Economic Survey (ES)_Yearly,153588.15,1999TZA001020153588.15Total
+60187,GDP per capita (at current prices),Tshs,Total,Dodoma,TZA001001,2000,MoFEA_Economic Survey (ES)_Yearly,137277.93,2000TZA001001137277.93Total
+60188,GDP per capita (at current prices),Tshs,Total,Arusha,TZA001002,2000,MoFEA_Economic Survey (ES)_Yearly,251521.75,2000TZA001002251521.75Total
+60189,GDP per capita (at current prices),Tshs,Total,Kilimanjaro,TZA001003,2000,MoFEA_Economic Survey (ES)_Yearly,139178.69,2000TZA001003139178.69Total
+60190,GDP per capita (at current prices),Tshs,Total,Tanga,TZA001004,2000,MoFEA_Economic Survey (ES)_Yearly,165576.17,2000TZA001004165576.17Total
+60191,GDP per capita (at current prices),Tshs,Total,Morogoro,TZA001005,2000,MoFEA_Economic Survey (ES)_Yearly,173501.17,2000TZA001005173501.17Total
+60192,GDP per capita (at current prices),Tshs,Total,Pwani,TZA001006,2000,MoFEA_Economic Survey (ES)_Yearly,169808.2,2000TZA001006169808.2Total
+60194,GDP per capita (at current prices),Tshs,Total,Lindi,TZA001008,2000,MoFEA_Economic Survey (ES)_Yearly,173018.15,2000TZA001008173018.15Total
+60195,GDP per capita (at current prices),Tshs,Total,Mtwara,TZA001009,2000,MoFEA_Economic Survey (ES)_Yearly,235057.03,2000TZA001009235057.03Total
+60196,GDP per capita (at current prices),Tshs,Total,Ruvuma,TZA001010,2000,MoFEA_Economic Survey (ES)_Yearly,214305.9,2000TZA001010214305.9Total
+60197,GDP per capita (at current prices),Tshs,Total,Iringa,TZA001011,2000,MoFEA_Economic Survey (ES)_Yearly,217041.07,2000TZA001011217041.07Total
+60198,GDP per capita (at current prices),Tshs,Total,Mbeya,TZA001012,2000,MoFEA_Economic Survey (ES)_Yearly,176549.95,2000TZA001012176549.95Total
+60199,GDP per capita (at current prices),Tshs,Total,Singida,TZA001013,2000,MoFEA_Economic Survey (ES)_Yearly,181861.24,2000TZA001013181861.24Total
+60200,GDP per capita (at current prices),Tshs,Total,Tabora,TZA001014,2000,MoFEA_Economic Survey (ES)_Yearly,178351.83,2000TZA001014178351.83Total
+60201,GDP per capita (at current prices),Tshs,Total,Rukwa,TZA001015,2000,MoFEA_Economic Survey (ES)_Yearly,222518.41,2000TZA001015222518.41Total
+60202,GDP per capita (at current prices),Tshs,Total,Kigoma,TZA001016,2000,MoFEA_Economic Survey (ES)_Yearly,134657.05,2000TZA001016134657.05Total
+60203,GDP per capita (at current prices),Tshs,Total,Shinyanga,TZA001017,2000,MoFEA_Economic Survey (ES)_Yearly,231554.7,2000TZA001017231554.7Total
+60204,GDP per capita (at current prices),Tshs,Total,Kagera,TZA001018,2000,MoFEA_Economic Survey (ES)_Yearly,140149.63,2000TZA001018140149.63Total
+60205,GDP per capita (at current prices),Tshs,Total,Mwanza,TZA001019,2000,MoFEA_Economic Survey (ES)_Yearly,203869.83,2000TZA001019203869.83Total
+60206,GDP per capita (at current prices),Tshs,Total,Mara,TZA001020,2000,MoFEA_Economic Survey (ES)_Yearly,183194.08,2000TZA001020183194.08Total
+60208,GDP per capita (at current prices),Tshs,Total,Dodoma,TZA001001,2001,MoFEA_Economic Survey (ES)_Yearly,155503.46,2001TZA001001155503.46Total
+60209,GDP per capita (at current prices),Tshs,Total,Arusha,TZA001002,2001,MoFEA_Economic Survey (ES)_Yearly,278677.51,2001TZA001002278677.51Total
+60210,GDP per capita (at current prices),Tshs,Total,Kilimanjaro,TZA001003,2001,MoFEA_Economic Survey (ES)_Yearly,152722.26,2001TZA001003152722.26Total
+60211,GDP per capita (at current prices),Tshs,Total,Tanga,TZA001004,2001,MoFEA_Economic Survey (ES)_Yearly,192027.65,2001TZA001004192027.65Total
+60212,GDP per capita (at current prices),Tshs,Total,Morogoro,TZA001005,2001,MoFEA_Economic Survey (ES)_Yearly,206303.63,2001TZA001005206303.63Total
+60213,GDP per capita (at current prices),Tshs,Total,Pwani,TZA001006,2001,MoFEA_Economic Survey (ES)_Yearly,181432.42,2001TZA001006181432.42Total
+60215,GDP per capita (at current prices),Tshs,Total,Lindi,TZA001008,2001,MoFEA_Economic Survey (ES)_Yearly,185085.03,2001TZA001008185085.03Total
+60216,GDP per capita (at current prices),Tshs,Total,Mtwara,TZA001009,2001,MoFEA_Economic Survey (ES)_Yearly,265147.48,2001TZA001009265147.48Total
+60217,GDP per capita (at current prices),Tshs,Total,Ruvuma,TZA001010,2001,MoFEA_Economic Survey (ES)_Yearly,207622.05,2001TZA001010207622.05Total
+60218,GDP per capita (at current prices),Tshs,Total,Iringa,TZA001011,2001,MoFEA_Economic Survey (ES)_Yearly,248491.09,2001TZA001011248491.09Total
+60219,GDP per capita (at current prices),Tshs,Total,Mbeya,TZA001012,2001,MoFEA_Economic Survey (ES)_Yearly,202534.93,2001TZA001012202534.93Total
+60220,GDP per capita (at current prices),Tshs,Total,Singida,TZA001013,2001,MoFEA_Economic Survey (ES)_Yearly,183942.24,2001TZA001013183942.24Total
+60221,GDP per capita (at current prices),Tshs,Total,Tabora,TZA001014,2001,MoFEA_Economic Survey (ES)_Yearly,184363.05,2001TZA001014184363.05Total
+60222,GDP per capita (at current prices),Tshs,Total,Rukwa,TZA001015,2001,MoFEA_Economic Survey (ES)_Yearly,221803.77,2001TZA001015221803.77Total
+60223,GDP per capita (at current prices),Tshs,Total,Kigoma,TZA001016,2001,MoFEA_Economic Survey (ES)_Yearly,155279.1,2001TZA001016155279.1Total
+60224,GDP per capita (at current prices),Tshs,Total,Shinyanga,TZA001017,2001,MoFEA_Economic Survey (ES)_Yearly,286399.78,2001TZA001017286399.78Total
+60225,GDP per capita (at current prices),Tshs,Total,Kagera,TZA001018,2001,MoFEA_Economic Survey (ES)_Yearly,150536.32,2001TZA001018150536.32Total
+60226,GDP per capita (at current prices),Tshs,Total,Mwanza,TZA001019,2001,MoFEA_Economic Survey (ES)_Yearly,223807.7,2001TZA001019223807.7Total
+60227,GDP per capita (at current prices),Tshs,Total,Mara,TZA001020,2001,MoFEA_Economic Survey (ES)_Yearly,183289.98,2001TZA001020183289.98Total
+60229,GDP per capita (at current prices),Tshs,Total,Dodoma,TZA001001,2002,MoFEA_Economic Survey (ES)_Yearly,177147.33,2002TZA001001177147.33Total
+60230,GDP per capita (at current prices),Tshs,Total,Arusha,TZA001002,2002,MoFEA_Economic Survey (ES)_Yearly,284406.28,2002TZA001002284406.28Total
+60231,GDP per capita (at current prices),Tshs,Total,Kilimanjaro,TZA001003,2002,MoFEA_Economic Survey (ES)_Yearly,252610.54,2002TZA001003252610.54Total
+60232,GDP per capita (at current prices),Tshs,Total,Tanga,TZA001004,2002,MoFEA_Economic Survey (ES)_Yearly,230453.88,2002TZA001004230453.88Total
+60233,GDP per capita (at current prices),Tshs,Total,Morogoro,TZA001005,2002,MoFEA_Economic Survey (ES)_Yearly,232920.59,2002TZA001005232920.59Total
+60234,GDP per capita (at current prices),Tshs,Total,Pwani,TZA001006,2002,MoFEA_Economic Survey (ES)_Yearly,193876.65,2002TZA001006193876.65Total
+60236,GDP per capita (at current prices),Tshs,Total,Lindi,TZA001008,2002,MoFEA_Economic Survey (ES)_Yearly,223191.42,2002TZA001008223191.42Total
+60237,GDP per capita (at current prices),Tshs,Total,Mtwara,TZA001009,2002,MoFEA_Economic Survey (ES)_Yearly,292794.9,2002TZA001009292794.9Total
+60238,GDP per capita (at current prices),Tshs,Total,Ruvuma,TZA001010,2002,MoFEA_Economic Survey (ES)_Yearly,242701.7,2002TZA001010242701.7Total
+60239,GDP per capita (at current prices),Tshs,Total,Iringa,TZA001011,2002,MoFEA_Economic Survey (ES)_Yearly,321936.13,2002TZA001011321936.13Total
+60240,GDP per capita (at current prices),Tshs,Total,Mbeya,TZA001012,2002,MoFEA_Economic Survey (ES)_Yearly,239938.78,2002TZA001012239938.78Total
+60241,GDP per capita (at current prices),Tshs,Total,Singida,TZA001013,2002,MoFEA_Economic Survey (ES)_Yearly,206343.6,2002TZA001013206343.6Total
+60242,GDP per capita (at current prices),Tshs,Total,Tabora,TZA001014,2002,MoFEA_Economic Survey (ES)_Yearly,170982.92,2002TZA001014170982.92Total
+60243,GDP per capita (at current prices),Tshs,Total,Rukwa,TZA001015,2002,MoFEA_Economic Survey (ES)_Yearly,243600.0,2002TZA001015243600Total
+60244,GDP per capita (at current prices),Tshs,Total,Kigoma,TZA001016,2002,MoFEA_Economic Survey (ES)_Yearly,125593.5,2002TZA001016125593.5Total
+60245,GDP per capita (at current prices),Tshs,Total,Shinyanga,TZA001017,2002,MoFEA_Economic Survey (ES)_Yearly,299070.72,2002TZA001017299070.72Total
+60246,GDP per capita (at current prices),Tshs,Total,Kagera,TZA001018,2002,MoFEA_Economic Survey (ES)_Yearly,159540.85,2002TZA001018159540.85Total
+60247,GDP per capita (at current prices),Tshs,Total,Mwanza,TZA001019,2002,MoFEA_Economic Survey (ES)_Yearly,228072.37,2002TZA001019228072.37Total
+60248,GDP per capita (at current prices),Tshs,Total,Mara,TZA001020,2002,MoFEA_Economic Survey (ES)_Yearly,209119.46,2002TZA001020209119.46Total
+60249,GDP per capita (at current prices),Tshs,Total,Manyara,TZA001021,2002,MoFEA_Economic Survey (ES)_Yearly,266283.0,2002TZA001021266283Total
+60251,GDP per capita (at current prices),Tshs,Total,Dodoma,TZA001001,2003,MoFEA_Economic Survey (ES)_Yearly,189840.0,2003TZA001001189840Total
+60252,GDP per capita (at current prices),Tshs,Total,Arusha,TZA001002,2003,MoFEA_Economic Survey (ES)_Yearly,293764.0,2003TZA001002293764Total
+60253,GDP per capita (at current prices),Tshs,Total,Kilimanjaro,TZA001003,2003,MoFEA_Economic Survey (ES)_Yearly,306563.0,2003TZA001003306563Total
+60254,GDP per capita (at current prices),Tshs,Total,Tanga,TZA001004,2003,MoFEA_Economic Survey (ES)_Yearly,252128.0,2003TZA001004252128Total
+60255,GDP per capita (at current prices),Tshs,Total,Morogoro,TZA001005,2003,MoFEA_Economic Survey (ES)_Yearly,245299.0,2003TZA001005245299Total
+60256,GDP per capita (at current prices),Tshs,Total,Pwani,TZA001006,2003,MoFEA_Economic Survey (ES)_Yearly,251059.0,2003TZA001006251059Total
+60258,GDP per capita (at current prices),Tshs,Total,Lindi,TZA001008,2003,MoFEA_Economic Survey (ES)_Yearly,287936.0,2003TZA001008287936Total
+60259,GDP per capita (at current prices),Tshs,Total,Mtwara,TZA001009,2003,MoFEA_Economic Survey (ES)_Yearly,256080.0,2003TZA001009256080Total
+60260,GDP per capita (at current prices),Tshs,Total,Ruvuma,TZA001010,2003,MoFEA_Economic Survey (ES)_Yearly,331186.0,2003TZA001010331186Total
+60261,GDP per capita (at current prices),Tshs,Total,Iringa,TZA001011,2003,MoFEA_Economic Survey (ES)_Yearly,359496.0,2003TZA001011359496Total
+60262,GDP per capita (at current prices),Tshs,Total,Mbeya,TZA001012,2003,MoFEA_Economic Survey (ES)_Yearly,276280.0,2003TZA001012276280Total
+60263,GDP per capita (at current prices),Tshs,Total,Singida,TZA001013,2003,MoFEA_Economic Survey (ES)_Yearly,206209.0,2003TZA001013206209Total
+60264,GDP per capita (at current prices),Tshs,Total,Tabora,TZA001014,2003,MoFEA_Economic Survey (ES)_Yearly,206064.0,2003TZA001014206064Total
+60265,GDP per capita (at current prices),Tshs,Total,Rukwa,TZA001015,2003,MoFEA_Economic Survey (ES)_Yearly,298275.0,2003TZA001015298275Total
+60266,GDP per capita (at current prices),Tshs,Total,Kigoma,TZA001016,2003,MoFEA_Economic Survey (ES)_Yearly,205221.0,2003TZA001016205221Total
+60267,GDP per capita (at current prices),Tshs,Total,Shinyanga,TZA001017,2003,MoFEA_Economic Survey (ES)_Yearly,232364.0,2003TZA001017232364Total
+60268,GDP per capita (at current prices),Tshs,Total,Kagera,TZA001018,2003,MoFEA_Economic Survey (ES)_Yearly,225056.0,2003TZA001018225056Total
+60269,GDP per capita (at current prices),Tshs,Total,Mwanza,TZA001019,2003,MoFEA_Economic Survey (ES)_Yearly,277556.0,2003TZA001019277556Total
+60270,GDP per capita (at current prices),Tshs,Total,Mara,TZA001020,2003,MoFEA_Economic Survey (ES)_Yearly,318093.0,2003TZA001020318093Total
+60271,GDP per capita (at current prices),Tshs,Total,Manyara,TZA001021,2003,MoFEA_Economic Survey (ES)_Yearly,258537.0,2003TZA001021258537Total
+60273,GDP per capita (at current prices),Tshs,Total,Dodoma,TZA001001,2004,MoFEA_Economic Survey (ES)_Yearly,200006.0,2004TZA001001200006Total
+60274,GDP per capita (at current prices),Tshs,Total,Arusha,TZA001002,2004,MoFEA_Economic Survey (ES)_Yearly,355952.0,2004TZA001002355952Total
+60275,GDP per capita (at current prices),Tshs,Total,Kilimanjaro,TZA001003,2004,MoFEA_Economic Survey (ES)_Yearly,375873.0,2004TZA001003375873Total
+60276,GDP per capita (at current prices),Tshs,Total,Tanga,TZA001004,2004,MoFEA_Economic Survey (ES)_Yearly,355712.0,2004TZA001004355712Total
+60277,GDP per capita (at current prices),Tshs,Total,Morogoro,TZA001005,2004,MoFEA_Economic Survey (ES)_Yearly,337032.0,2004TZA001005337032Total
+60278,GDP per capita (at current prices),Tshs,Total,Pwani,TZA001006,2004,MoFEA_Economic Survey (ES)_Yearly,253607.0,2004TZA001006253607Total
+60280,GDP per capita (at current prices),Tshs,Total,Lindi,TZA001008,2004,MoFEA_Economic Survey (ES)_Yearly,294105.0,2004TZA001008294105Total
+60281,GDP per capita (at current prices),Tshs,Total,Mtwara,TZA001009,2004,MoFEA_Economic Survey (ES)_Yearly,260840.0,2004TZA001009260840Total
+60282,GDP per capita (at current prices),Tshs,Total,Ruvuma,TZA001010,2004,MoFEA_Economic Survey (ES)_Yearly,372028.0,2004TZA001010372028Total
+60283,GDP per capita (at current prices),Tshs,Total,Iringa,TZA001011,2004,MoFEA_Economic Survey (ES)_Yearly,394449.0,2004TZA001011394449Total
+60284,GDP per capita (at current prices),Tshs,Total,Mbeya,TZA001012,2004,MoFEA_Economic Survey (ES)_Yearly,354023.0,2004TZA001012354023Total
+60285,GDP per capita (at current prices),Tshs,Total,Singida,TZA001013,2004,MoFEA_Economic Survey (ES)_Yearly,208812.0,2004TZA001013208812Total
+60286,GDP per capita (at current prices),Tshs,Total,Tabora,TZA001014,2004,MoFEA_Economic Survey (ES)_Yearly,243886.0,2004TZA001014243886Total
+60287,GDP per capita (at current prices),Tshs,Total,Rukwa,TZA001015,2004,MoFEA_Economic Survey (ES)_Yearly,321927.0,2004TZA001015321927Total
+60288,GDP per capita (at current prices),Tshs,Total,Kigoma,TZA001016,2004,MoFEA_Economic Survey (ES)_Yearly,206359.0,2004TZA001016206359Total
+60289,GDP per capita (at current prices),Tshs,Total,Shinyanga,TZA001017,2004,MoFEA_Economic Survey (ES)_Yearly,233116.0,2004TZA001017233116Total
+60290,GDP per capita (at current prices),Tshs,Total,Kagera,TZA001018,2004,MoFEA_Economic Survey (ES)_Yearly,226773.0,2004TZA001018226773Total
+60291,GDP per capita (at current prices),Tshs,Total,Mwanza,TZA001019,2004,MoFEA_Economic Survey (ES)_Yearly,309577.0,2004TZA001019309577Total
+60292,GDP per capita (at current prices),Tshs,Total,Mara,TZA001020,2004,MoFEA_Economic Survey (ES)_Yearly,329655.0,2004TZA001020329655Total
+60293,GDP per capita (at current prices),Tshs,Total,Manyara,TZA001021,2004,MoFEA_Economic Survey (ES)_Yearly,313894.0,2004TZA001021313894Total
+60295,GDP per capita (at current prices),Tshs,Total,Dodoma,TZA001001,2005,MoFEA_Economic Survey (ES)_Yearly,441030.0,2005TZA001001441030Total
+60296,GDP per capita (at current prices),Tshs,Total,Arusha,TZA001002,2005,MoFEA_Economic Survey (ES)_Yearly,463483.0,2005TZA001002463483Total
+60297,GDP per capita (at current prices),Tshs,Total,Kilimanjaro,TZA001003,2005,MoFEA_Economic Survey (ES)_Yearly,497788.0,2005TZA001003497788Total
+60298,GDP per capita (at current prices),Tshs,Total,Tanga,TZA001004,2005,MoFEA_Economic Survey (ES)_Yearly,491210.0,2005TZA001004491210Total
+60299,GDP per capita (at current prices),Tshs,Total,Morogoro,TZA001005,2005,MoFEA_Economic Survey (ES)_Yearly,419571.0,2005TZA001005419571Total
+60300,GDP per capita (at current prices),Tshs,Total,Pwani,TZA001006,2005,MoFEA_Economic Survey (ES)_Yearly,300534.0,2005TZA001006300534Total
+60302,GDP per capita (at current prices),Tshs,Total,Lindi,TZA001008,2005,MoFEA_Economic Survey (ES)_Yearly,352368.0,2005TZA001008352368Total
+60303,GDP per capita (at current prices),Tshs,Total,Mtwara,TZA001009,2005,MoFEA_Economic Survey (ES)_Yearly,310679.0,2005TZA001009310679Total
+60304,GDP per capita (at current prices),Tshs,Total,Ruvuma,TZA001010,2005,MoFEA_Economic Survey (ES)_Yearly,499716.0,2005TZA001010499716Total
+60305,GDP per capita (at current prices),Tshs,Total,Iringa,TZA001011,2005,MoFEA_Economic Survey (ES)_Yearly,510610.0,2005TZA001011510610Total
+60306,GDP per capita (at current prices),Tshs,Total,Mbeya,TZA001012,2005,MoFEA_Economic Survey (ES)_Yearly,471698.0,2005TZA001012471698Total
+60307,GDP per capita (at current prices),Tshs,Total,Singida,TZA001013,2005,MoFEA_Economic Survey (ES)_Yearly,232709.0,2005TZA001013232709Total
+60308,GDP per capita (at current prices),Tshs,Total,Tabora,TZA001014,2005,MoFEA_Economic Survey (ES)_Yearly,331877.0,2005TZA001014331877Total
+60309,GDP per capita (at current prices),Tshs,Total,Rukwa,TZA001015,2005,MoFEA_Economic Survey (ES)_Yearly,399818.0,2005TZA001015399818Total
+60310,GDP per capita (at current prices),Tshs,Total,Kigoma,TZA001016,2005,MoFEA_Economic Survey (ES)_Yearly,246090.0,2005TZA001016246090Total
+60311,GDP per capita (at current prices),Tshs,Total,Shinyanga,TZA001017,2005,MoFEA_Economic Survey (ES)_Yearly,271934.0,2005TZA001017271934Total
+60312,GDP per capita (at current prices),Tshs,Total,Kagera,TZA001018,2005,MoFEA_Economic Survey (ES)_Yearly,266663.0,2005TZA001018266663Total
+60313,GDP per capita (at current prices),Tshs,Total,Mwanza,TZA001019,2005,MoFEA_Economic Survey (ES)_Yearly,385285.0,2005TZA001019385285Total
+60314,GDP per capita (at current prices),Tshs,Total,Mara,TZA001020,2005,MoFEA_Economic Survey (ES)_Yearly,401495.0,2005TZA001020401495Total
+60315,GDP per capita (at current prices),Tshs,Total,Manyara,TZA001021,2005,MoFEA_Economic Survey (ES)_Yearly,429274.0,2005TZA001021429274Total
+60317,GDP per capita (at current prices),Tshs,Total,Dodoma,TZA001001,2006,MoFEA_Economic Survey (ES)_Yearly,478434.0,2006TZA001001478434Total
+60318,GDP per capita (at current prices),Tshs,Total,Arusha,TZA001002,2006,MoFEA_Economic Survey (ES)_Yearly,499608.0,2006TZA001002499608Total
+60319,GDP per capita (at current prices),Tshs,Total,Kilimanjaro,TZA001003,2006,MoFEA_Economic Survey (ES)_Yearly,521033.0,2006TZA001003521033Total
+60320,GDP per capita (at current prices),Tshs,Total,Tanga,TZA001004,2006,MoFEA_Economic Survey (ES)_Yearly,516547.0,2006TZA001004516547Total
+60321,GDP per capita (at current prices),Tshs,Total,Morogoro,TZA001005,2006,MoFEA_Economic Survey (ES)_Yearly,454686.0,2006TZA001005454686Total
+60322,GDP per capita (at current prices),Tshs,Total,Pwani,TZA001006,2006,MoFEA_Economic Survey (ES)_Yearly,327030.0,2006TZA001006327030Total
+60324,GDP per capita (at current prices),Tshs,Total,Lindi,TZA001008,2006,MoFEA_Economic Survey (ES)_Yearly,377064.0,2006TZA001008377064Total
+60325,GDP per capita (at current prices),Tshs,Total,Mtwara,TZA001009,2006,MoFEA_Economic Survey (ES)_Yearly,334603.0,2006TZA001009334603Total
+60326,GDP per capita (at current prices),Tshs,Total,Ruvuma,TZA001010,2006,MoFEA_Economic Survey (ES)_Yearly,513018.0,2006TZA001010513018Total
+60327,GDP per capita (at current prices),Tshs,Total,Iringa,TZA001011,2006,MoFEA_Economic Survey (ES)_Yearly,534954.0,2006TZA001011534954Total
+60328,GDP per capita (at current prices),Tshs,Total,Mbeya,TZA001012,2006,MoFEA_Economic Survey (ES)_Yearly,486437.0,2006TZA001012486437Total
+60329,GDP per capita (at current prices),Tshs,Total,Singida,TZA001013,2006,MoFEA_Economic Survey (ES)_Yearly,253489.0,2006TZA001013253489Total
+60330,GDP per capita (at current prices),Tshs,Total,Tabora,TZA001014,2006,MoFEA_Economic Survey (ES)_Yearly,332029.0,2006TZA001014332029Total
+60331,GDP per capita (at current prices),Tshs,Total,Rukwa,TZA001015,2006,MoFEA_Economic Survey (ES)_Yearly,425750.0,2006TZA001015425750Total
+60332,GDP per capita (at current prices),Tshs,Total,Kigoma,TZA001016,2006,MoFEA_Economic Survey (ES)_Yearly,264884.0,2006TZA001016264884Total
+60333,GDP per capita (at current prices),Tshs,Total,Shinyanga,TZA001017,2006,MoFEA_Economic Survey (ES)_Yearly,292884.0,2006TZA001017292884Total
+60334,GDP per capita (at current prices),Tshs,Total,Kagera,TZA001018,2006,MoFEA_Economic Survey (ES)_Yearly,306268.0,2006TZA001018306268Total
+60335,GDP per capita (at current prices),Tshs,Total,Mwanza,TZA001019,2006,MoFEA_Economic Survey (ES)_Yearly,443453.0,2006TZA001019443453Total
+60336,GDP per capita (at current prices),Tshs,Total,Mara,TZA001020,2006,MoFEA_Economic Survey (ES)_Yearly,419049.0,2006TZA001020419049Total
+60337,GDP per capita (at current prices),Tshs,Total,Manyara,TZA001021,2006,MoFEA_Economic Survey (ES)_Yearly,431202.0,2006TZA001021431202Total
+60338,GDP per capita (at current prices),Tshs,Total,Kigoma,TZA001016,2008,MoFEA_Economic Survey (ES)_Yearly,407688.0,2008TZA001016407688Total
+60339,GDP per capita (at current prices),Tshs,Total,Shinyanga,TZA001017,2008,MoFEA_Economic Survey (ES)_Yearly,383161.0,2008TZA001017383161Total
+60340,GDP per capita (at current prices),Tshs,Total,Kagera,TZA001018,2008,MoFEA_Economic Survey (ES)_Yearly,380742.0,2008TZA001018380742Total
+60341,GDP per capita (at current prices),Tshs,Total,Mwanza,TZA001019,2008,MoFEA_Economic Survey (ES)_Yearly,579881.0,2008TZA001019579881Total
+60342,GDP per capita (at current prices),Tshs,Total,Mara,TZA001020,2008,MoFEA_Economic Survey (ES)_Yearly,514048.0,2008TZA001020514048Total
+60343,GDP per capita (at current prices),Tshs,Total,Manyara,TZA001021,2008,MoFEA_Economic Survey (ES)_Yearly,605526.0,2008TZA001021605526Total
+60347,GDP per capita (at current prices),Tshs,Total,Tanga,TZA001004,2008,MoFEA_Economic Survey (ES)_Yearly,584820.0,2008TZA001004584820Total
+60348,GDP per capita (at current prices),Tshs,Total,Morogoro,TZA001005,2008,MoFEA_Economic Survey (ES)_Yearly,561869.0,2008TZA001005561869Total
+60349,GDP per capita (at current prices),Tshs,Total,Pwani,TZA001006,2008,MoFEA_Economic Survey (ES)_Yearly,414157.0,2008TZA001006414157Total
+60351,GDP per capita (at current prices),Tshs,Total,Lindi,TZA001008,2008,MoFEA_Economic Survey (ES)_Yearly,483457.0,2008TZA001008483457Total
+60352,GDP per capita (at current prices),Tshs,Total,Mtwara,TZA001009,2008,MoFEA_Economic Survey (ES)_Yearly,433138.0,2008TZA001009433138Total
+60360,GDP per capita (at current prices),Tshs,Total,Ruvuma,TZA001010,2008,MoFEA_Economic Survey (ES)_Yearly,699036.0,2008TZA001010699036Total
+60362,GDP per capita (at current prices),Tshs,Total,Dodoma,TZA001001,2009,MoFEA_Economic Survey (ES)_Yearly,374885.0,2009TZA001001374885Total
+60367,GDP per capita (at current prices),Tshs,Total,Arusha,TZA001002,2009,MoFEA_Economic Survey (ES)_Yearly,736546.0,2009TZA001002736546Total
+60368,GDP per capita (at current prices),Tshs,Total,Kilimanjaro,TZA001003,2009,MoFEA_Economic Survey (ES)_Yearly,733202.0,2009TZA001003733202Total
+60370,GDP per capita (at current prices),Tshs,Total,Dodoma,TZA001001,2007,MoFEA_Economic Survey (ES)_Yearly,546956.0,2007TZA001001546956Total
+60371,GDP per capita (at current prices),Tshs,Total,Arusha,TZA001002,2007,MoFEA_Economic Survey (ES)_Yearly,563263.0,2007TZA001002563263Total
+60372,GDP per capita (at current prices),Tshs,Total,Kilimanjaro,TZA001003,2007,MoFEA_Economic Survey (ES)_Yearly,582250.0,2007TZA001003582250Total
+60381,GDP per capita (at current prices),Tshs,Total,Tanga,TZA001004,2007,MoFEA_Economic Survey (ES)_Yearly,576775.0,2007TZA001004576775Total
+60382,GDP per capita (at current prices),Tshs,Total,Morogoro,TZA001005,2007,MoFEA_Economic Survey (ES)_Yearly,520018.0,2007TZA001005520018Total
+60383,GDP per capita (at current prices),Tshs,Total,Pwani,TZA001006,2007,MoFEA_Economic Survey (ES)_Yearly,362041.0,2007TZA001006362041Total
+60385,GDP per capita (at current prices),Tshs,Total,Lindi,TZA001008,2007,MoFEA_Economic Survey (ES)_Yearly,423192.0,2007TZA001008423192Total
+60386,GDP per capita (at current prices),Tshs,Total,Mtwara,TZA001009,2007,MoFEA_Economic Survey (ES)_Yearly,369004.0,2007TZA001009369004Total
+60519,GDP per capita (at current prices),Tshs,Total,Ruvuma,TZA001010,2007,MoFEA_Economic Survey (ES)_Yearly,599794.0,2007TZA001010599794Total
+60520,GDP per capita (at current prices),Tshs,Total,Iringa,TZA001011,2007,MoFEA_Economic Survey (ES)_Yearly,617448.0,2007TZA001011617448Total
+60521,GDP per capita (at current prices),Tshs,Total,Mbeya,TZA001012,2007,MoFEA_Economic Survey (ES)_Yearly,560773.0,2007TZA001012560773Total
+60522,GDP per capita (at current prices),Tshs,Total,Singida,TZA001013,2007,MoFEA_Economic Survey (ES)_Yearly,277078.0,2007TZA001013277078Total
+60523,GDP per capita (at current prices),Tshs,Total,Tabora,TZA001014,2007,MoFEA_Economic Survey (ES)_Yearly,373894.0,2007TZA001014373894Total
+60688,GDP per capita (at current prices),Tshs,Total,Rukwa,TZA001015,2007,MoFEA_Economic Survey (ES)_Yearly,486832.0,2007TZA001015486832Total
+60689,GDP per capita (at current prices),Tshs,Total,Kigoma,TZA001016,2007,MoFEA_Economic Survey (ES)_Yearly,360290.0,2007TZA001016360290Total
+60690,GDP per capita (at current prices),Tshs,Total,Shinyanga,TZA001017,2007,MoFEA_Economic Survey (ES)_Yearly,333776.0,2007TZA001017333776Total
+60691,GDP per capita (at current prices),Tshs,Total,Kagera,TZA001018,2007,MoFEA_Economic Survey (ES)_Yearly,333575.0,2007TZA001018333575Total
+60692,GDP per capita (at current prices),Tshs,Total,Mwanza,TZA001019,2007,MoFEA_Economic Survey (ES)_Yearly,503026.0,2007TZA001019503026Total
+60693,GDP per capita (at current prices),Tshs,Total,Mara,TZA001020,2007,MoFEA_Economic Survey (ES)_Yearly,448732.0,2007TZA001020448732Total
+60694,GDP per capita (at current prices),Tshs,Total,Manyara,TZA001021,2007,MoFEA_Economic Survey (ES)_Yearly,524592.0,2007TZA001021524592Total
+60696,GDP per capita (at current prices),Tshs,Total,Dodoma,TZA001001,2008,MoFEA_Economic Survey (ES)_Yearly,341358.0,2008TZA001001341358Total
+60697,GDP per capita (at current prices),Tshs,Total,Arusha,TZA001002,2008,MoFEA_Economic Survey (ES)_Yearly,660280.0,2008TZA001002660280Total
+60698,GDP per capita (at current prices),Tshs,Total,Kilimanjaro,TZA001003,2008,MoFEA_Economic Survey (ES)_Yearly,683230.0,2008TZA001003683230Total
+60699,GDP per capita (at current prices),Tshs,Total,Tanga,TZA001004,2009,MoFEA_Economic Survey (ES)_Yearly,626566.0,2009TZA001004626566Total
+60700,GDP per capita (at current prices),Tshs,Total,Morogoro,TZA001005,2009,MoFEA_Economic Survey (ES)_Yearly,608161.0,2009TZA001005608161Total
+60701,GDP per capita (at current prices),Tshs,Total,Pwani,TZA001006,2009,MoFEA_Economic Survey (ES)_Yearly,443536.0,2009TZA001006443536Total
+60703,GDP per capita (at current prices),Tshs,Total,Lindi,TZA001008,2009,MoFEA_Economic Survey (ES)_Yearly,519274.0,2009TZA001008519274Total
+60704,GDP per capita (at current prices),Tshs,Total,Mtwara,TZA001009,2009,MoFEA_Economic Survey (ES)_Yearly,465236.0,2009TZA001009465236Total
+60705,GDP per capita (at current prices),Tshs,Total,Ruvuma,TZA001010,2009,MoFEA_Economic Survey (ES)_Yearly,745795.0,2009TZA001010745795Total
+60706,GDP per capita (at current prices),Tshs,Total,Iringa,TZA001011,2009,MoFEA_Economic Survey (ES)_Yearly,777511.0,2009TZA001011777511Total
+60707,GDP per capita (at current prices),Tshs,Total,Mbeya,TZA001012,2009,MoFEA_Economic Survey (ES)_Yearly,723391.0,2009TZA001012723391Total
+60708,GDP per capita (at current prices),Tshs,Total,Singida,TZA001013,2009,MoFEA_Economic Survey (ES)_Yearly,337900.0,2009TZA001013337900Total
+60709,GDP per capita (at current prices),Tshs,Total,Tabora,TZA001014,2009,MoFEA_Economic Survey (ES)_Yearly,456365.0,2009TZA001014456365Total
+60710,GDP per capita (at current prices),Tshs,Total,Rukwa,TZA001015,2009,MoFEA_Economic Survey (ES)_Yearly,607846.0,2009TZA001015607846Total
+60711,GDP per capita (at current prices),Tshs,Total,Kigoma,TZA001016,2009,MoFEA_Economic Survey (ES)_Yearly,436878.0,2009TZA001016436878Total
+60712,GDP per capita (at current prices),Tshs,Total,Shinyanga,TZA001017,2009,MoFEA_Economic Survey (ES)_Yearly,411425.0,2009TZA001017411425Total
+60713,GDP per capita (at current prices),Tshs,Total,Kagera,TZA001018,2009,MoFEA_Economic Survey (ES)_Yearly,409822.0,2009TZA001018409822Total
+60714,GDP per capita (at current prices),Tshs,Total,Mwanza,TZA001019,2009,MoFEA_Economic Survey (ES)_Yearly,677045.0,2009TZA001019677045Total
+60715,GDP per capita (at current prices),Tshs,Total,Mara,TZA001020,2009,MoFEA_Economic Survey (ES)_Yearly,542835.0,2009TZA001020542835Total
+60716,GDP per capita (at current prices),Tshs,Total,Manyara,TZA001021,2009,MoFEA_Economic Survey (ES)_Yearly,639423.0,2009TZA001021639423Total
+60718,GDP per capita (at current prices),Tshs,Total,Dodoma,TZA001001,2010,MoFEA_Economic Survey (ES)_Yearly,473539.0,2010TZA001001473539Total
+60719,GDP per capita (at current prices),Tshs,Total,Arusha,TZA001002,2010,MoFEA_Economic Survey (ES)_Yearly,945437.0,2010TZA001002945437Total
+60720,GDP per capita (at current prices),Tshs,Total,Kilimanjaro,TZA001003,2010,MoFEA_Economic Survey (ES)_Yearly,879432.0,2010TZA001003879432Total
+60721,GDP per capita (at current prices),Tshs,Total,Tanga,TZA001004,2010,MoFEA_Economic Survey (ES)_Yearly,763203.0,2010TZA001004763203Total
+60722,GDP per capita (at current prices),Tshs,Total,Morogoro,TZA001005,2010,MoFEA_Economic Survey (ES)_Yearly,744234.0,2010TZA001005744234Total
+60723,GDP per capita (at current prices),Tshs,Total,Pwani,TZA001006,2010,MoFEA_Economic Survey (ES)_Yearly,572466.0,2010TZA001006572466Total
+60725,GDP per capita (at current prices),Tshs,Total,Lindi,TZA001008,2010,MoFEA_Economic Survey (ES)_Yearly,673096.0,2010TZA001008673096Total
+60726,GDP per capita (at current prices),Tshs,Total,Mtwara,TZA001009,2010,MoFEA_Economic Survey (ES)_Yearly,700435.0,2010TZA001009700435Total
+60727,GDP per capita (at current prices),Tshs,Total,Ruvuma,TZA001010,2010,MoFEA_Economic Survey (ES)_Yearly,866191.0,2010TZA001010866191Total
+60728,GDP per capita (at current prices),Tshs,Total,Iringa,TZA001011,2010,MoFEA_Economic Survey (ES)_Yearly,979882.0,2010TZA001011979882Total
+60729,GDP per capita (at current prices),Tshs,Total,Mbeya,TZA001012,2010,MoFEA_Economic Survey (ES)_Yearly,892877.0,2010TZA001012892877Total
+60730,GDP per capita (at current prices),Tshs,Total,Singida,TZA001013,2010,MoFEA_Economic Survey (ES)_Yearly,483922.0,2010TZA001013483922Total
+60731,GDP per capita (at current prices),Tshs,Total,Tabora,TZA001014,2010,MoFEA_Economic Survey (ES)_Yearly,528832.0,2010TZA001014528832Total
+60732,GDP per capita (at current prices),Tshs,Total,Rukwa,TZA001015,2010,MoFEA_Economic Survey (ES)_Yearly,726658.0,2010TZA001015726658Total
+60733,GDP per capita (at current prices),Tshs,Total,Kigoma,TZA001016,2010,MoFEA_Economic Survey (ES)_Yearly,499428.0,2010TZA001016499428Total
+60734,GDP per capita (at current prices),Tshs,Total,Shinyanga,TZA001017,2010,MoFEA_Economic Survey (ES)_Yearly,510023.0,2010TZA001017510023Total
+60735,GDP per capita (at current prices),Tshs,Total,Kagera,TZA001018,2010,MoFEA_Economic Survey (ES)_Yearly,491713.0,2010TZA001018491713Total
+60736,GDP per capita (at current prices),Tshs,Total,Mwanza,TZA001019,2010,MoFEA_Economic Survey (ES)_Yearly,829647.0,2010TZA001019829647Total
+60737,GDP per capita (at current prices),Tshs,Total,Mara,TZA001020,2010,MoFEA_Economic Survey (ES)_Yearly,642528.0,2010TZA001020642528Total
+60738,GDP per capita (at current prices),Tshs,Total,Manyara,TZA001021,2010,MoFEA_Economic Survey (ES)_Yearly,772364.0,2010TZA001021772364Total
+60740,GDP per capita (at current prices),Tshs,Total,Dodoma,TZA001001,2011,MoFEA_Economic Survey (ES)_Yearly,535768.0,2011TZA001001535768Total
+60741,GDP per capita (at current prices),Tshs,Total,Arusha,TZA001002,2011,MoFEA_Economic Survey (ES)_Yearly,1038097.0,2011TZA0010021038097Total
+60742,GDP per capita (at current prices),Tshs,Total,Kilimanjaro,TZA001003,2011,MoFEA_Economic Survey (ES)_Yearly,1034263.0,2011TZA0010031034263Total
+60743,GDP per capita (at current prices),Tshs,Total,Tanga,TZA001004,2011,MoFEA_Economic Survey (ES)_Yearly,879014.0,2011TZA001004879014Total
+60744,GDP per capita (at current prices),Tshs,Total,Morogoro,TZA001005,2011,MoFEA_Economic Survey (ES)_Yearly,718741.0,2011TZA001005718741Total
+60745,GDP per capita (at current prices),Tshs,Total,Pwani,TZA001006,2011,MoFEA_Economic Survey (ES)_Yearly,830052.0,2011TZA001006830052Total
+60747,GDP per capita (at current prices),Tshs,Total,Lindi,TZA001008,2011,MoFEA_Economic Survey (ES)_Yearly,754949.0,2011TZA001008754949Total
+60748,GDP per capita (at current prices),Tshs,Total,Mtwara,TZA001009,2011,MoFEA_Economic Survey (ES)_Yearly,924536.0,2011TZA001009924536Total
+60749,GDP per capita (at current prices),Tshs,Total,Ruvuma,TZA001010,2011,MoFEA_Economic Survey (ES)_Yearly,565973.0,2011TZA001010565973Total
+60750,GDP per capita (at current prices),Tshs,Total,Iringa,TZA001011,2011,MoFEA_Economic Survey (ES)_Yearly,1125503.0,2011TZA0010111125503Total
+60751,GDP per capita (at current prices),Tshs,Total,Mbeya,TZA001012,2011,MoFEA_Economic Survey (ES)_Yearly,856126.0,2011TZA001012856126Total
+60752,GDP per capita (at current prices),Tshs,Total,Singida,TZA001013,2011,MoFEA_Economic Survey (ES)_Yearly,614579.0,2011TZA001013614579Total
+60753,GDP per capita (at current prices),Tshs,Total,Tabora,TZA001014,2011,MoFEA_Economic Survey (ES)_Yearly,886343.0,2011TZA001014886343Total
+60754,GDP per capita (at current prices),Tshs,Total,Rukwa,TZA001015,2011,MoFEA_Economic Survey (ES)_Yearly,1029094.0,2011TZA0010151029094Total
+60755,GDP per capita (at current prices),Tshs,Total,Kigoma,TZA001016,2011,MoFEA_Economic Survey (ES)_Yearly,581461.0,2011TZA001016581461Total
+60756,GDP per capita (at current prices),Tshs,Total,Shinyanga,TZA001017,2011,MoFEA_Economic Survey (ES)_Yearly,505435.0,2011TZA001017505435Total
+60757,GDP per capita (at current prices),Tshs,Total,Kagera,TZA001018,2011,MoFEA_Economic Survey (ES)_Yearly,559070.0,2011TZA001018559070Total
+60758,GDP per capita (at current prices),Tshs,Total,Mwanza,TZA001019,2011,MoFEA_Economic Survey (ES)_Yearly,640801.0,2011TZA001019640801Total
+60759,GDP per capita (at current prices),Tshs,Total,Mara,TZA001020,2011,MoFEA_Economic Survey (ES)_Yearly,741357.0,2011TZA001020741357Total
+60760,GDP per capita (at current prices),Tshs,Total,Manyara,TZA001021,2011,MoFEA_Economic Survey (ES)_Yearly,998210.0,2011TZA001021998210Total
+60762,GDP per capita (at current prices),Tshs,Total,Dodoma,TZA001001,2012,MoFEA_Economic Survey (ES)_Yearly,665180.0,2012TZA001001665180Total
+60763,GDP per capita (at current prices),Tshs,Total,Arusha,TZA001002,2012,MoFEA_Economic Survey (ES)_Yearly,1258334.0,2012TZA0010021258334Total
+60764,GDP per capita (at current prices),Tshs,Total,Kilimanjaro,TZA001003,2012,MoFEA_Economic Survey (ES)_Yearly,1237761.0,2012TZA0010031237761Total
+60765,GDP per capita (at current prices),Tshs,Total,Tanga,TZA001004,2012,MoFEA_Economic Survey (ES)_Yearly,1026432.0,2012TZA0010041026432Total
+60766,GDP per capita (at current prices),Tshs,Total,Morogoro,TZA001005,2012,MoFEA_Economic Survey (ES)_Yearly,984686.0,2012TZA001005984686Total
+60767,GDP per capita (at current prices),Tshs,Total,Pwani,TZA001006,2012,MoFEA_Economic Survey (ES)_Yearly,752192.0,2012TZA001006752192Total
+60769,GDP per capita (at current prices),Tshs,Total,Lindi,TZA001008,2012,MoFEA_Economic Survey (ES)_Yearly,976192.0,2012TZA001008976192Total
+60770,GDP per capita (at current prices),Tshs,Total,Mtwara,TZA001009,2012,MoFEA_Economic Survey (ES)_Yearly,930862.0,2012TZA001009930862Total
+60771,GDP per capita (at current prices),Tshs,Total,Ruvuma,TZA001010,2012,MoFEA_Economic Survey (ES)_Yearly,1237972.0,2012TZA0010101237972Total
+60772,GDP per capita (at current prices),Tshs,Total,Iringa,TZA001011,2012,MoFEA_Economic Survey (ES)_Yearly,1428243.0,2012TZA0010111428243Total
+60773,GDP per capita (at current prices),Tshs,Total,Mbeya,TZA001012,2012,MoFEA_Economic Survey (ES)_Yearly,1210065.0,2012TZA0010121210065Total
+60774,GDP per capita (at current prices),Tshs,Total,Singida,TZA001013,2012,MoFEA_Economic Survey (ES)_Yearly,625974.0,2012TZA001013625974Total
+60775,GDP per capita (at current prices),Tshs,Total,Tabora,TZA001014,2012,MoFEA_Economic Survey (ES)_Yearly,770866.0,2012TZA001014770866Total
+60776,GDP per capita (at current prices),Tshs,Total,Rukwa,TZA001015,2012,MoFEA_Economic Survey (ES)_Yearly,974601.0,2012TZA001015974601Total
+60777,GDP per capita (at current prices),Tshs,Total,Kigoma,TZA001016,2012,MoFEA_Economic Survey (ES)_Yearly,608652.0,2012TZA001016608652Total
+60778,GDP per capita (at current prices),Tshs,Total,Shinyanga,TZA001017,2012,MoFEA_Economic Survey (ES)_Yearly,856333.0,2012TZA001017856333Total
+60779,GDP per capita (at current prices),Tshs,Total,Kagera,TZA001018,2012,MoFEA_Economic Survey (ES)_Yearly,716209.0,2012TZA001018716209Total
+60780,GDP per capita (at current prices),Tshs,Total,Mwanza,TZA001019,2012,MoFEA_Economic Survey (ES)_Yearly,910824.0,2012TZA001019910824Total
+60781,GDP per capita (at current prices),Tshs,Total,Mara,TZA001020,2012,MoFEA_Economic Survey (ES)_Yearly,1048437.0,2012TZA0010201048437Total
+60782,GDP per capita (at current prices),Tshs,Total,Manyara,TZA001021,2012,MoFEA_Economic Survey (ES)_Yearly,946107.0,2012TZA001021946107Total
