@@ -17,7 +17,7 @@ def read_all_data():
     st_functional_pumps.replace({'non_functional': 'non functional'}, inplace=True)
 
     water_pumps = pd.merge(left=pd.read_csv('data/Pump_it_Up_Data_Training_set_values.csv'),
-         right=pd.read_csv('data/Pump_it_Up_Data_Training_set_labels'), on='id', how='left')
+         right=pd.read_csv('data/Pump_it_Up_Data_Training_set_labels.csv'), on='id', how='left')
     water_pumps['geometry'] = [Point(xy) for xy in zip(water_pumps['longitude'], water_pumps['latitude'])] 
     water_pumps.replace({'Dar es Salaam': 'Dar-es-salaam'}, inplace=True)
 
